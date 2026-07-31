@@ -41,6 +41,8 @@
       ],
       "nav_link_selector": "#mega-menu-primary > li:nth-child(-n+4) > a.mega-menu-link",
       "dropdown_host_selector": "#mega-menu-primary > li:nth-child(-n+4)",
+      "force_header_nav_triggers": true,
+      "force_header_nav_slot": "#mega-menu-primary",
       "mobile_menu_slot": "#mega-menu-primary",
       "burger_selector": "#mega-toggle-block-0 button",
       "burger_slot": "#site-navigation",
