@@ -1,0 +1,28 @@
+{
+  "domain": "sellmineralrightsalabama.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsalabama.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsalabama.com",
+  "reference": "https://www.hntb.com/",
+  "refhost": "hntb-com",
+  "biz": "Sell Mineral Rights Alabama",
+  "businessName": "Sell Mineral Rights Alabama",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "ALABAMA",
+  "city": "Birmingham",
+  "state": "Alabama",
+  "region": "Birmingham, the Black Warrior Basin, south Alabama oil fields, and mineral-owning Alabama counties statewide",
+  "phone": "205-555-1043",
+  "email": "alabama@sellmineralrightsalabama.com",
+  "address": "710 20th St N, Birmingham, AL 35203",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsalabama-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsalabama.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Alabama Areas", "/locations"],
+    ["Owner Guides", "/resources"]
+  ],
+  "cta": ["Request an Alabama Review", "/contact#contact-form"]
+}

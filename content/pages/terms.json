@@ -1,0 +1,93 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Alabama Mineral Rights",
+ "metaDescription": "The terms governing use of this site, including that content is educational, evaluations are not offers of specific figures, and no professional advice is given.",
+ "heroLead": "These terms are meant to be read, not skipped, so we have kept them plain and specific to what this site actually does.",
+ "intro": [
+  "This page covers the terms that apply when you use this website or contact us about a mineral or royalty interest in Alabama. By using the site or reaching out to us, you agree to the terms described below.",
+  "If anything here is unclear, ask us directly through the contact page before proceeding with any part of the process."
+ ],
+ "sections": [
+  {
+   "heading": "Educational content, not professional advice",
+   "paragraphs": [
+    "Guides and resources on this site are provided for general educational purposes about Alabama mineral and royalty ownership. Nothing on this site constitutes legal, tax, or financial advice, and we are not licensed attorneys, CPAs, or appraisers. For guidance specific to your situation, talk to your own CPA or attorney before making decisions about a sale, lease, or estate matter.",
+    "Information about production trends, decline patterns, or typical royalty structures reflects general knowledge about Alabama's producing regions and is not a guarantee of how any specific well or interest will perform."
+   ]
+  },
+  {
+   "heading": "Evaluations and offers",
+   "paragraphs": [
+    "Any range or evaluation we provide is based on the documentation and information available at the time and is not a binding offer until reflected in signed closing documents. We do not guarantee a specific price or return, and any figures discussed are estimates that can change as additional documentation is reviewed or as market conditions shift.",
+    "Requesting an evaluation does not obligate you to sell, and receiving a range from us does not obligate us to purchase at that figure once title work is complete, particularly if title issues or documentation gaps materially change what is confirmed at closing."
+   ]
+  },
+  {
+   "heading": "Use of the website",
+   "paragraphs": [
+    "This site and its content are intended for informational use by mineral owners and others researching Alabama mineral rights. You may not reproduce, republish, or use the content for commercial purposes without permission. We make reasonable efforts to keep information accurate but do not warrant that every detail is current, since regulations, tax treatment, and market conditions change over time.",
+    "We are not responsible for how third-party sites linked from this site handle your information or for the accuracy of content on sites we do not control."
+   ]
+  },
+  {
+   "heading": "Changes to these terms",
+   "paragraphs": [
+    "We may update these terms from time to time to reflect changes in how the site operates or applicable law. Continued use of the site after an update constitutes acceptance of the revised terms. We encourage checking this page periodically if you use the site regularly.",
+    "If you have entered into a specific closing agreement with us, the terms of that signed agreement govern the transaction itself, separate from these general website terms."
+   ]
+  },
+  {
+   "heading": "No securities or investment offer",
+   "paragraphs": [
+    "Nothing on this site is an offer to sell or a solicitation to buy any security, investment product, or partnership interest. This site addresses the purchase of direct mineral and royalty interests from Alabama owners, and any transaction is documented separately through standard real property conveyance, not through securities offering documents.",
+    "If any content elsewhere references investment concepts for general educational purposes, that content should not be read as investment advice or as an invitation to invest with us."
+   ]
+  },
+  {
+   "heading": "Limitation of liability",
+   "paragraphs": [
+    "We provide this site and its content on an as-is basis and make no warranty that it is free of errors or suitable for any particular purpose. To the extent permitted by law, we are not liable for decisions made based solely on general content from this site rather than your own review of your specific documents and professional advice.",
+    "This limitation does not affect any warranties or obligations we take on specifically within a signed closing agreement for an actual transaction, which are governed by the terms of that agreement rather than these general website terms."
+   ]
+  },
+  {
+   "heading": "Governing law",
+   "paragraphs": [
+    "These terms, and any dispute arising from use of this site, are governed by Alabama law, given that the site and the interests it addresses are focused specifically on Alabama mineral ownership. Any actual closing agreement you sign with us may specify its own governing terms consistent with the county and state where the minerals are located.",
+    "If any part of these terms is found unenforceable, the remaining provisions continue to apply as written."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is anything on this site legal or tax advice?",
+   "answer": "No. Content here is general and educational. For advice specific to your situation, consult your own attorney or CPA."
+  },
+  {
+   "question": "Is a range you provide a binding offer?",
+   "answer": "No. A range is an estimate based on available information and becomes binding only once reflected in signed closing documents after title is confirmed."
+  },
+  {
+   "question": "Can I use content from this site elsewhere?",
+   "answer": "Not without permission. Content is intended for informational use by visitors researching their own mineral interests, not for republication."
+  },
+  {
+   "question": "What happens if these terms change after I have already signed a closing agreement?",
+   "answer": "Your specific signed agreement governs that transaction. Updates to these general website terms apply to future site use, not retroactively to a completed transaction."
+  },
+  {
+   "question": "Does this site offer investment products?",
+   "answer": "No. This site relates to buying mineral and royalty interests directly from Alabama owners, documented through standard property conveyance, not securities or investment offering documents."
+  }
+ ],
+ "wordCount": 897,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsalabama-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

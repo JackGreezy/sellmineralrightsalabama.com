@@ -1,0 +1,79 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | Alabama Mineral Rights",
+ "metaDescription": "Reach out about your Alabama mineral or royalty interest. No pressure, no obligation, just a straightforward conversation about what you own and what it means.",
+ "heroLead": "Send us whatever you have on your Alabama mineral interest, even if it is incomplete, and we will tell you plainly what we can do with it.",
+ "intro": [
+  "Most owners who reach out are not sure exactly where to start, and that is fine. Some have a lease and years of royalty statements. Others inherited a fractional interest and have never seen a division order at all. Either starting point works, and the first conversation is simply about understanding what you have and what questions you want answered.",
+  "We respond directly, without a call center or a scripted pitch, and there is no obligation attached to reaching out. You can ask questions, request an evaluation, and take as much time as you need before deciding anything."
+ ],
+ "sections": [
+  {
+   "heading": "What to include when you reach out",
+   "paragraphs": [
+    "If you have it, the county where your minerals are located, whether the interest is currently leased or producing, and any lease, division order, or recent royalty statement helps us respond with something useful right away rather than a round of clarifying questions. If you do not have these on hand, reach out anyway and we will walk through what would help.",
+    "It also helps to mention whether you are the sole owner or whether the interest is shared among siblings, cousins, or other heirs, since that shapes how a sale would eventually be structured if you decide to move forward."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We will review whatever you send, ask any clarifying questions needed, and follow up with a plain explanation of what we can offer and how we arrived at that range. If your documentation is incomplete, we will tell you what additional records, if any, would sharpen the evaluation, and whether a probate attorney or title company needs to be involved first.",
+    "From there, the pace is entirely up to you. Some owners want to move quickly. Others want weeks to think it over or compare against another source. Both are fine with us."
+   ]
+  },
+  {
+   "heading": "A note on privacy",
+   "paragraphs": [
+    "Details about your specific interest, family situation, or documents are handled privately and are not shared beyond what is needed to evaluate and, if you choose to proceed, close a transaction. See our privacy page for the full detail on how information you share with us is handled.",
+    "If at any point you decide you are not interested in moving forward, simply let us know and we will close out the conversation without further follow-up."
+   ]
+  },
+  {
+   "heading": "If several family members share the interest",
+   "paragraphs": [
+    "It is common for one family member to reach out first on behalf of siblings or cousins who share an inherited interest. That is fine as a starting point, though at some stage each owner will typically need to review and sign for their own portion, so it helps to loop in other heirs early rather than waiting until closing to explain the process to them for the first time.",
+    "If your family is still sorting out who the actual heirs are, or whether probate was ever completed, mention that when you reach out. We can usually point you toward what a probate attorney would need to establish clear heirship before a sale can close."
+   ]
+  },
+  {
+   "heading": "Questions we hear most often at this stage",
+   "paragraphs": [
+    "Owners frequently ask what county their minerals need to be located in for us to help, whether an unleased interest is even worth evaluating, and how quickly a conversation could lead to a closed sale if they decided to move forward. All of these are reasonable to ask upfront, before sharing any documents, and we would rather answer them plainly than have you guess.",
+    "Others simply want to understand their own royalty statement, a division order they were just asked to sign, or whether a letter they received from another buyer looks reasonable. We are glad to answer general questions like these even if you have no intention of selling right now."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a cost or obligation to reach out?",
+   "answer": "No. Requesting information or an evaluation does not commit you to selling anything, and there is no cost to asking questions."
+  },
+  {
+   "question": "What if I do not have any documents yet?",
+   "answer": "Reach out anyway. We can usually point you toward what to look for, whether that is a county deed record, a probate filing, or an operator's owner relations line."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "We aim to respond promptly, generally within a business day or two, though the exact timing can vary with how much documentation there is to review."
+  },
+  {
+   "question": "Can I ask questions without requesting a specific offer?",
+   "answer": "Yes. Many owners start simply by asking general questions about their interest or the process before deciding whether they even want an evaluation."
+  },
+  {
+   "question": "Can I reach out on behalf of an elderly parent or relative?",
+   "answer": "Yes, though at the point of any actual sale, the owner of record or their legal representative will need to be directly involved in reviewing and signing documents."
+  }
+ ],
+ "wordCount": 856,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightsalabama-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

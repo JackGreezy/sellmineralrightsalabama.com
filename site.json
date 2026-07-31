@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightsalabama.com",
+ "keyword": "sell mineral rights alabama",
+ "segment": "alabama-state",
+ "intent": "seller",
+ "tier": "Expansion (110 head vol)",
+ "available": true,
+ "voice": "family-office-advisor: portfolio framing, after-tax outcomes, patient tone",
+ "angle": "AL pillar; Black Warrior CBM legacy + south-AL oil fields",
+ "taxonomyCounts": {
+  "locations": 135,
+  "basins": 1,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 169,
+ "status": "scaffold"
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Alabama Mineral Rights",
+ "metaDescription": "Request a no-obligation evaluation of your Alabama mineral or royalty interest. See what information helps and what happens after you reach out.",
+ "heroLead": "Requesting an offer starts with a conversation, not a commitment, and the number you get back is built from your actual documents, not a formula pulled off a shelf.",
+ "intro": [
+  "If you are considering selling a mineral or royalty interest in Alabama, the first practical step is simply finding out what a fair range looks like given your specific situation. That means sharing what you know about the interest, whatever documentation you have, and letting us walk you through how the evaluation was built rather than handing you a bare number.",
+  "This is the same approach a family office would take with any illiquid asset before a decision gets made: understand the income history, understand the risk, understand the alternatives, and only then decide whether selling makes sense."
+ ],
+ "sections": [
+  {
+   "heading": "What we look at",
+   "paragraphs": [
+    "For a producing interest, we review your lease terms, division order, and recent royalty statements to understand your decimal interest and where the well sits on its decline curve. For unleased minerals, we look at nearby permitting and development activity in the county to gauge the reasonable range for acreage without a current production history.",
+    "In either case, we account for the specific play. Black Warrior basin coalbed methane acreage in counties like Tuscaloosa and Fayette behaves differently over time than conventional oil interests around south Alabama's Manila and Citronelle fields, and treating the two the same is how evaluations go wrong."
+   ]
+  },
+  {
+   "heading": "What we ask you for",
+   "paragraphs": [
+    "Whatever documents you have on hand: a deed or probate record establishing ownership, a lease if one exists, a division order, and recent royalty statements if the interest is producing. If some of these are missing, especially for an inherited interest, that is common and we can usually still work from partial information to give you a preliminary sense of range.",
+    "We will also ask whether you are the sole owner or whether the interest is shared among family members, since that shapes both the evaluation and how any eventual sale would be structured."
+   ]
+  },
+  {
+   "heading": "What you get back",
+   "paragraphs": [
+    "A range, explained plainly, along with the reasoning behind it: recent production trend, decline stage, comparable activity, or whatever combination applies to your specific interest. We will tell you directly if we think more documentation would sharpen the number, and we are comfortable with you comparing our range against another source before deciding anything.",
+    "If you decide to move forward, the next step is a closing process handled through a title company or closing attorney, who confirms the chain of title and prepares the deed. If you decide not to move forward, that is entirely fine, and there is no pressure or follow-up beyond what you want."
+   ]
+  },
+  {
+   "heading": "If you are still deciding whether to sell at all",
+   "paragraphs": [
+    "Requesting a range does not mean you have decided to sell. Many owners request an evaluation specifically to inform a broader decision, comparing the after-tax proceeds of a sale against continuing to hold and collect royalty income, or against leasing unleased acreage instead of selling it outright. Having a real number in hand, rather than a guess, makes that comparison possible.",
+    "If, after seeing the range, holding or leasing looks like the better fit for your household, that is a completely reasonable outcome, and we would rather you make that call with real information than skip the evaluation and decide blind."
+   ]
+  },
+  {
+   "heading": "For interests that have never produced a check",
+   "paragraphs": [
+    "Some of the interests we evaluate have never generated a single royalty payment, either because they sit in a county with no current drilling or because the acreage was never leased at all. These are still worth requesting a range on, since nearby permitting and lease activity can support real value even without a production history, and knowing that range is useful whether or not you decide to act on it right away.",
+    "If it turns out your county shows little recent activity, we will say so honestly rather than manufacturing an optimistic number, and we will explain what, if anything, might change that picture going forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does requesting an offer cost anything?",
+   "answer": "No. There is no cost or obligation to request an evaluation, and you are free to walk away at any point in the conversation."
+  },
+  {
+   "question": "How long does it take to get a range back?",
+   "answer": "With reasonably complete documentation, often a few business days. Interests requiring title research or heirship documentation first can take longer."
+  },
+  {
+   "question": "Can I request an offer if my interest is unleased?",
+   "answer": "Yes. Unleased minerals are evaluated differently, based on comparable nearby activity rather than existing production, but they can still be evaluated and purchased."
+  },
+  {
+   "question": "What if there are multiple family members who share the interest?",
+   "answer": "That is common and workable. Each owner typically reviews and signs for their own share, and payment can be structured accordingly rather than requiring one person to handle everything."
+  },
+  {
+   "question": "Can I get a range without deciding whether to sell first?",
+   "answer": "Yes. Many owners request an evaluation specifically to help decide whether selling makes sense at all, alongside options like leasing or continuing to hold the interest."
+  }
+ ],
+ "wordCount": 869,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsalabama-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

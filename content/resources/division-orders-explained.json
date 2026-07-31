@@ -1,0 +1,72 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Alabama Division Orders Explained | What They Mean",
+ "metaDescription": "A plain-language walk through what a division order is, why an operator sends one, and what to check before you sign it for your Alabama mineral interest.",
+ "heroLead": "A division order shows up in the mail, usually after a well is already producing, and it asks you to confirm how much of the check is actually yours.",
+ "intro": [
+  "Most Alabama mineral owners meet the phrase division order for the first time only after a well has already been drilled and completed. The operator has run title, worked out who owns what across the spacing unit, and now wants your signature confirming the decimal interest it plans to pay you against. It feels procedural. It is worth reading closely anyway, because it is the last checkpoint before money starts moving on a fixed schedule.",
+  "We work through these documents constantly as part of evaluating what an interest is worth to buy, so we think it is fair to walk owners through what a division order does, what it does not do, and where the mistakes tend to hide. None of this replaces your own attorney's review of a specific document, but it should tell you what questions to ask."
+ ],
+ "sections": [
+  {
+   "heading": "What a division order actually is",
+   "paragraphs": [
+    "A division order is the operator's own accounting instrument. It states the well name, the legal description of the spacing or drilling unit, your name and address, and the decimal interest the operator's title work says you own. Sign it and you are confirming that decimal is correct, and you are authorizing the operator or its designated purchaser to pay you on that basis going forward.",
+    "It is not a lease, and it does not transfer or modify your ownership. Your underlying mineral or royalty interest is fixed by the deed, the lease, and whatever probate or heirship record established your chain of title. The division order is downstream of all that. If it disagrees with your deed, the deed generally controls, and that disagreement is exactly what you want to catch before checks start arriving on the wrong number."
+   ]
+  },
+  {
+   "heading": "Where the decimal comes from",
+   "paragraphs": [
+    "The math behind your decimal interest is net mineral acres owned, divided by gross acres in the unit, multiplied by your royalty fraction under the lease, adjusted for any working interest or overriding royalty layered on top. In Black Warrior basin coalbed methane units around Tuscaloosa and Fayette counties, units are frequently pooled across multiple leases with different royalty rates and effective dates, and an heir group holding a fractional undivided interest in old family land can see a decimal far smaller than the acreage alone would suggest.",
+    "South Alabama conventional units around the Manila and Citronelle fields carry their own wrinkles, particularly where interests trace back through decades of probate without a clean deed at every step. If your ownership passed through inheritance rather than a purchase, the operator's landman likely had to reconstruct your share from probate and heirship affidavits, and that is the calculation most worth double-checking against your own records."
+   ]
+  },
+  {
+   "heading": "What to check before you sign",
+   "paragraphs": [
+    "Compare the legal description on the division order to your deed or probate record, beyond simply confirming the county name matches. Confirm your name and mailing address are exact, since misspellings and outdated addresses are the most common cause of delayed or suspended payments. Verify the decimal interest against your own math if you can reconstruct it, and if the well has multiple owners of record in your family, confirm the group's combined decimal adds up the way you expect.",
+    "If anything looks off, do not sign yet. Call the operator's owner relations line and ask them to walk through how they calculated your decimal. Reputable operators expect these calls and will usually explain their title work. If the explanation does not match your deed, put the disagreement in writing before you sign, and loop in an attorney if the dollar amounts involved justify it."
+   ]
+  },
+  {
+   "heading": "Suspense, held funds, and why signatures matter",
+   "paragraphs": [
+    "Until a division order is signed and returned, many operators place your share of proceeds in suspense, meaning the money accrues on their books but is not paid out. This is standard and not itself a red flag, but suspended funds can sit a long time if paperwork gets lost or an heirship dispute among family co-owners is unresolved. If you inherited an interest and have not yet signed a division order under your own name, that is often the reason payments have not started.",
+    "Alabama has statutory timelines governing when an operator must commence payment after first sale of production, with interest sometimes owed on late payments. If you believe funds have been held past a reasonable period without explanation, raise it directly with the operator, and mention it if you ever discuss selling the interest, since a buyer will want to understand why a well is producing but nothing has been paid."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "In practice, yes, most operators will not release regular payments until they have a signed division order on file matching their title work, though funds typically continue accruing in suspense in the meantime."
+  },
+  {
+   "question": "Can I sell my mineral rights without ever signing a division order?",
+   "answer": "Yes. Ownership and the right to sell exist independent of the division order. If a well has not yet been drilled or you simply have not signed the paperwork, that does not prevent a sale, though a buyer will still want clean title."
+  },
+  {
+   "question": "What if the decimal interest on the order looks wrong?",
+   "answer": "Contact the operator's owner relations department before signing and ask them to explain their calculation. If your own records support a different number, put your position in writing and consider having an attorney review the title opinion if the value at stake warrants it."
+  },
+  {
+   "question": "Does signing a division order lock in my royalty rate forever?",
+   "answer": "No. The division order reflects the royalty rate set in your lease. If the lease is renegotiated, expires, or a new well is drilled under different terms, a new division order would follow the new arrangement, not the old signature."
+  },
+  {
+   "question": "Should my attorney or CPA look at a division order before I sign?",
+   "answer": "For a modest, straightforward interest many owners sign after checking the legal description and decimal themselves. For larger or disputed interests, or anything involving heirship among several family members, it is reasonable to have your attorney or CPA review it once before you sign."
+  }
+ ],
+ "wordCount": 1082,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsalabama-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

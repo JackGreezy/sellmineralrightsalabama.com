@@ -1,0 +1,5 @@
+content
+images
+qa-out
+*.html.ref
+capture-manifest.json

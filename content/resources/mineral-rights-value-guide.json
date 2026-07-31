@@ -1,0 +1,79 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Mineral Rights Worth in Alabama?",
+ "metaDescription": "The factors that actually drive Alabama mineral rights value, from production history to well decline, and why value is always a range, not a fixed price.",
+ "heroLead": "The honest answer to what your minerals are worth is that it depends on several things a family office would look at before valuing any income-producing asset, and no reputable source will give you a firm number sight unseen.",
+ "intro": [
+  "This is the question every owner asks first, and it is the hardest one to answer honestly without seeing your specific interest. Value swings enormously between a producing royalty in an active Black Warrior basin coalbed methane unit and a small, unleased fractional interest that has been sitting quietly in south Alabama for two generations. Anyone quoting a firm dollar figure before reviewing your deed, lease, and payment history is guessing, not evaluating.",
+  "What we can do is lay out the factors that actually move the number, so that when you do get an evaluation, you understand what it is built on rather than treating it as a black box."
+ ],
+ "sections": [
+  {
+   "heading": "Producing versus unleased makes the biggest difference",
+   "paragraphs": [
+    "A mineral interest currently generating royalty income from an active well is valued primarily on that income stream, projected forward using the well's decline curve. An unleased interest with no current production is valued more speculatively, based on nearby activity, permitting trends, and how likely development appears in the county over a reasonable time horizon.",
+    "This single distinction usually matters more than any other factor. Two neighboring tracts in the same county, one leased and producing, one unleased, can be worth very different amounts even though the underlying geology is identical."
+   ]
+  },
+  {
+   "heading": "Where the well sits in its production life",
+   "paragraphs": [
+    "Coalbed methane wells across the Black Warrior basin, concentrated in counties like Tuscaloosa, Fayette, and Walker, typically follow a dewatering ramp-up in the first year or two before gas production peaks, then decline steadily over the following years. Conventional oil wells around south Alabama's Citronelle and Manila fields tend to peak earlier and decline faster. A well several years past peak, with production trending down, generally represents less remaining value than a recently completed well still early in its productive life, even if current monthly checks look similar.",
+    "This is why recent check history alone can be misleading. What matters more is the trend across the last one to two years of statements, since that trend tells you roughly where the well sits on its decline curve."
+   ]
+  },
+  {
+   "heading": "Royalty rate, net acres, and your actual decimal",
+   "paragraphs": [
+    "Your royalty fraction under the lease, the net mineral acres you own within the unit, and any fractionalization from shared heirship all feed directly into your decimal interest, which is the number ultimately multiplied against unit production to determine your share. A larger royalty fraction or a cleaner, unfractionalized ownership position generally supports a stronger value relative to acreage alone.",
+    "Owners who inherited a small undivided fraction of a larger family tract sometimes overestimate value based on total acreage without accounting for how thin their actual decimal is once divided among siblings, cousins, and prior generations. Reviewing your division order or lease is the fastest way to see your real decimal rather than assuming from acreage alone."
+   ]
+  },
+  {
+   "heading": "Commodity prices and market activity",
+   "paragraphs": [
+    "Both natural gas and oil prices move, sometimes substantially, over relatively short periods, and any value estimate tied to current or projected production reflects prevailing prices at the time it is prepared. A range that made sense six months ago may not hold today if prices have shifted meaningfully. This is normal and is exactly why credible value talk is expressed as a range tied to recent activity rather than a fixed number that never changes.",
+    "Local activity matters too. A county seeing active permitting and new completions generally supports stronger value for unleased acreage nearby than a county where drilling has been quiet for years."
+   ]
+  },
+  {
+   "heading": "How many owners share the unit",
+   "paragraphs": [
+    "The number of other owners holding interests in the same spacing unit affects both your decimal and, indirectly, how a buyer thinks about the interest. A unit with many small, fractionalized owners from a large extended family generally means each individual share is thin, which can affect how a buyer prices the administrative cost of tracking and paying that interest over time relative to its size.",
+    "This is a common pattern across older Black Warrior basin acreage, where a single original tract has been divided among descendants for two or three generations. It does not make a fractional share worthless, but it is one more factor a careful evaluation accounts for rather than ignores."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can you just tell me a number without seeing my documents?",
+   "answer": "Not responsibly. A credible range requires knowing whether your interest is producing, what the lease terms are, your net acreage, and recent payment history if applicable. Anyone offering a firm price without asking for these is skipping real evaluation."
+  },
+  {
+   "question": "Is unleased acreage worth anything at all?",
+   "answer": "Yes, though typically less predictably than producing interests, and the value depends heavily on nearby development activity and how likely drilling appears in a reasonable timeframe."
+  },
+  {
+   "question": "Why did my neighbor's minerals sell for more than mine?",
+   "answer": "Even neighboring tracts can differ in royalty rate, net acreage, decimal interest, well decline stage, or lease terms, any of which can produce a meaningfully different value despite similar geology."
+  },
+  {
+   "question": "Do older wells always mean lower value?",
+   "answer": "Generally a well further into decline represents less remaining value than a newer one, though reserve life, workover potential, and whether a unit could see future infill drilling all factor in too."
+  },
+  {
+   "question": "Does the number of other owners in my unit affect what my share is worth?",
+   "answer": "It can influence how a buyer approaches the interest administratively, though your own share is still valued primarily on your decimal interest, production history, and the well's decline stage rather than how many other owners exist."
+  }
+ ],
+ "wordCount": 984,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsalabama-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

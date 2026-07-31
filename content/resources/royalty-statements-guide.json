@@ -1,0 +1,68 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Alabama Royalty Statements",
+ "metaDescription": "A line-by-line guide to reading Alabama oil and gas royalty statements, what deductions are normal, and what changes are worth asking your operator about.",
+ "heroLead": "A royalty statement crams a lot of information into a small space, and most owners glance at the check amount and set the rest aside, which means missing the details that actually explain whether your interest is holding steady or fading.",
+ "intro": [
+  "Royalty statements arrive monthly or quarterly depending on the operator, and they are dense by design, packed with codes, deduction lines, and abbreviated field names that make sense to an accountant but not necessarily to the family who inherited the interest. Learning to read them takes about fifteen minutes and pays off every time a check arrives, because the statement tells a story about the well that the deposit amount alone does not.",
+  "This matters especially in Alabama, where Black Warrior basin coalbed methane wells and south Alabama conventional oil wells behave differently over time, and where the statement is often the only regular signal an owner gets about how a well is actually performing."
+ ],
+ "sections": [
+  {
+   "heading": "The basic anatomy of a statement",
+   "paragraphs": [
+    "Most statements list the well or unit name, your owner number, the production month being reported, gross production volume, your decimal interest, gross value before deductions, itemized deductions, and net amount paid to you. Production volume is usually reported in mcf for natural gas or barrels for oil, and it is worth tracking that number over several months even more than the dollar figure, since volume trends reveal decline before price swings obscure it in the dollar total.",
+    "Your decimal interest should match what is on your division order. If it changes without explanation, that is worth a call to the operator's owner relations line, since decimal changes usually mean either a new well was added to the unit, an ownership dispute was resolved, or, less commonly, an error occurred somewhere in their records."
+   ]
+  },
+  {
+   "heading": "What deductions are normal",
+   "paragraphs": [
+    "Most Alabama leases allow the operator to deduct post-production costs before calculating your royalty, commonly including gathering, compression, dehydration, and transportation to the point of sale. These deductions are typically itemized as separate line items rather than folded silently into the price, and seeing them is normal, not a sign of a problem, as long as they are consistent with what your lease allows.",
+    "What is worth questioning is a deduction category that appears suddenly without explanation, or one that seems disproportionately large relative to the gross value reported. A polite call to the operator asking what a specific line item covers is a completely normal request, and a legitimate operator will explain it."
+   ]
+  },
+  {
+   "heading": "Reading the decline curve in your own statements",
+   "paragraphs": [
+    "If you keep even a rough log of production volume by month, a pattern emerges over a year or two that tells you roughly where your well sits in its life. Coalbed methane wells in the Black Warrior basin often show rising volume in the first year or so as water is pumped out of the coal seam, followed by a peak and then a gradual decline that can extend for years. Conventional oil wells in south Alabama's producing fields typically peak earlier and decline more sharply.",
+    "This trend matters if you are ever weighing whether to sell. A royalty stream still in its rising or peak phase generally represents more remaining value than one several years into a steady decline, even if the two checks currently look similar in size."
+   ]
+  },
+  {
+   "heading": "When to raise a question with the operator",
+   "paragraphs": [
+    "It is reasonable to contact owner relations if your decimal interest changes unexpectedly, if payments stop or pause without notice, if a deduction category appears that was not there before, or if the well shows on state production records as active but you have received no statement at all in several months. Keep a simple file of your statements so you can point to specific months when you call.",
+    "If a well appears to have stopped producing entirely, that is also worth confirming directly, since it affects both what continued ownership means to you and what any future sale of the interest would be worth."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my check amount change even though my decimal interest stayed the same?",
+   "answer": "Check amounts move with production volume and commodity prices even when your ownership decimal is unchanged. A lower check often reflects natural production decline or a lower price that period, not a change in what you own."
+  },
+  {
+   "question": "Are post-production deductions legal in Alabama?",
+   "answer": "Generally yes, if your lease allows them. The specific deductions permitted depend on the lease language, which is why reviewing your own lease against the statement is worthwhile if a deduction looks unfamiliar."
+  },
+  {
+   "question": "What does it mean if my statement shows zero production for several months?",
+   "answer": "It can mean the well was shut in for maintenance, market conditions, or mechanical issues, or in some cases that production has stopped. Contacting the operator directly is the fastest way to find out which applies."
+  },
+  {
+   "question": "Should I keep my old statements?",
+   "answer": "Yes. Keeping a simple record of production volume and payments over time helps you spot trends, supports any tax reporting, and is useful documentation if you ever decide to sell the interest."
+  }
+ ],
+ "wordCount": 873,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsalabama-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

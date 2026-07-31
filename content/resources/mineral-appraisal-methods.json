@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Alabama Mineral Rights Are Appraised",
+ "metaDescription": "The methods used to appraise producing and unleased Alabama mineral interests, and why two evaluations of the same acreage can land in different ranges.",
+ "heroLead": "Two people can look at the same royalty check and arrive at meaningfully different numbers, because appraising minerals is closer to underwriting a bond than pricing a house.",
+ "intro": [
+  "Mineral appraisal is not one method, it is a family of approaches, and which one applies depends heavily on whether your interest is currently producing, leased but undeveloped, or entirely unleased. We are not licensed appraisers, and nothing here should be treated as a formal appraisal, but understanding the basic approaches helps you evaluate an offer with your eyes open rather than taking any single number on faith.",
+  "This matters more in Alabama than in some other states, because the state's two producing regions look almost nothing alike. Black Warrior basin coalbed methane wells behave very differently over time than the conventional oil wells around south Alabama's Manila and Citronelle fields, and an appraisal method built for one does not transfer cleanly to the other."
+ ],
+ "sections": [
+  {
+   "heading": "Income approach for producing interests",
+   "paragraphs": [
+    "For minerals already generating royalty checks, the most common method projects future production and revenue based on the well's historical decline curve, then discounts that projected stream back to a present value. This requires actual production data, typically pulled from the operator's records or the state's producing well reports, and a defensible assumption about how quickly output will continue declining.",
+    "Coalbed methane wells in the Black Warrior basin tend to show a distinctive production curve, often ramping up over the first year or two as water is dewatered from the coal seam before gas flow peaks, then declining steadily. Conventional oil wells in south Alabama typically peak earlier and decline faster. Applying the wrong decline assumption to the wrong play is one of the more common ways an appraisal misses the mark."
+   ]
+  },
+  {
+   "heading": "Comparable sales for both producing and unleased acreage",
+   "paragraphs": [
+    "Where recent, comparable transactions exist, whether recorded sales, lease bonus amounts, or known deal activity in the same unit or county, they provide a market-based check on the income approach. This method carries more weight for unleased or lightly developed acreage, where there is no production history to project from, and value instead reflects what nearby similar acreage has recently commanded amid current activity.",
+    "Comparable data is less abundant and less current in Alabama than in some higher-volume shale states, which is part of why credible value talk here is expressed as a range tied to recent activity rather than a fixed figure. Anyone quoting a precise number without asking about your specific well, unit, or county is skipping the comparison step."
+   ]
+  },
+  {
+   "heading": "Risk and reserve adjustments",
+   "paragraphs": [
+    "Beyond the base projection, appraisals typically adjust for risk factors specific to the interest: how much of the unit's reserves have already been produced versus how much remains, whether the operator has a track record of maintaining wells or has a history of shut-ins, commodity price exposure for the specific product being produced, and how many other owners hold interests in the same unit, which affects liquidity if you ever wanted to sell.",
+    "For unleased minerals, the biggest adjustment is simply the uncertainty of whether drilling happens at all. An operator holding permits nearby and showing active development interest supports a stronger valuation than acreage with no nearby activity, where the honest appraisal reflects a longer, less certain timeline."
+   ]
+  },
+  {
+   "heading": "Why estimates vary and what to ask for",
+   "paragraphs": [
+    "It is normal to receive different figures from different sources, because each is built on different assumptions about decline rate, discount rate, and remaining reserve life, and each may be working from a different slice of your production history. Rather than treating any single number as gospel, ask what production data and decline assumptions the estimate is based on, and whether it reflects your full interest or only a portion.",
+    "A responsible buyer will walk you through the reasoning behind the result, not only the final figure, and will be comfortable if you want to compare their number against another source before deciding. That comparison is a normal, healthy part of the process, not something to apologize for asking. It is also worth asking directly how sensitive the estimate is to commodity price assumptions, since a range built on optimistic pricing can look very different once prices soften."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a formal, licensed appraisal to sell?",
+   "answer": "Not typically for a private sale. Buyers generally conduct their own evaluation based on production history and comparable activity. A formal appraisal is more common for estate or tax purposes, which is a separate question worth discussing with your CPA."
+  },
+  {
+   "question": "Why did I get such different numbers from two different buyers?",
+   "answer": "Different decline curve assumptions, different discount rates, and different access to comparable sales data all produce different ranges from the same underlying interest. Ask each source what their estimate is based on."
+  },
+  {
+   "question": "How is unleased acreage appraised differently from a producing well?",
+   "answer": "Producing interests are valued largely on projected income from existing production. Unleased acreage has no production to project, so value leans more heavily on comparable nearby activity and the likelihood of future development."
+  },
+  {
+   "question": "Does the appraisal change if commodity prices move?",
+   "answer": "Yes, meaningfully. Both natural gas and oil prices swing over time, and a valuation tied to current commodity prices should be understood as a snapshot, not a fixed number that holds regardless of market conditions."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsalabama-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

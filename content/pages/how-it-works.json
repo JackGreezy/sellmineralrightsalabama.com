@@ -1,0 +1,86 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Alabama Mineral Rights Works",
+ "metaDescription": "A clear walk-through of the process for selling Alabama mineral rights, from first contact through closing, and how long each stage typically takes.",
+ "heroLead": "The process runs through the same handful of stages for nearly every owner, though the pace depends on how clean your title already is when you start.",
+ "intro": [
+  "We think it helps to know the whole shape of the process before you start it, rather than being walked through it one surprise step at a time. Below is how a typical Alabama mineral sale proceeds with us, from a first conversation through the final closing, along with the details specific to inherited and fractional ownership since that describes a large share of the families we work with.",
+  "Nothing below commits you to anything until you actually sign closing documents. Every stage before that is informational and reversible."
+ ],
+ "sections": [
+  {
+   "heading": "First conversation",
+   "paragraphs": [
+    "You reach out with whatever you know about the interest, and we ask a few clarifying questions: which county, whether it is leased or producing, and whether you have any documents already in hand. If you inherited the interest and are not sure of any of this, that is a completely normal starting point, and we will help you figure out where to look.",
+    "This step is about orientation, not commitment. There is no cost and no obligation attached to it."
+   ]
+  },
+  {
+   "heading": "Evaluation",
+   "paragraphs": [
+    "Using whatever documentation is available, lease terms, division orders, royalty statements, or comparable activity data for unleased acreage, we put together a range and explain the reasoning behind it. For producing interests this centers on recent production trend and decline stage. For unleased minerals it centers on nearby permitting and development activity in the county.",
+    "We are comfortable with you taking this range to review on your own timeline, or comparing it against another source. There is no pressure to respond quickly."
+   ]
+  },
+  {
+   "heading": "Title work and documentation",
+   "paragraphs": [
+    "If you decide to move forward, a title company or closing attorney runs the chain of title, confirming ownership traces cleanly from the original owner down to you. For interests that passed through inheritance without formal probate, this is often the stage where a heirship affidavit or probate filing is needed, and we can point you toward what typically applies for your county.",
+    "This stage takes longer for interests with title gaps and can move quickly for owners with a clean, documented chain."
+   ]
+  },
+  {
+   "heading": "Closing",
+   "paragraphs": [
+    "Once title is confirmed, a mineral deed is prepared, signed, and recorded in the probate office of the county where the minerals sit, and payment is issued. For interests shared among multiple heirs, each owner typically signs for their own portion, and payment is structured accordingly rather than requiring one person to collect and redistribute.",
+    "After closing, the buyer takes over responsibility for future division orders and lease decisions on the interest, and you have a closing statement for your own tax records going forward."
+   ]
+  },
+  {
+   "heading": "What makes Alabama transactions specifically take longer or shorter",
+   "paragraphs": [
+    "The single biggest variable in how long an Alabama mineral sale takes is whether title passed cleanly through prior generations or requires probate work first. A recently purchased interest with a single deed on file can close in a couple of weeks. An interest that has passed through three generations of family land without formal probate at each step can take considerably longer, simply because the title company has to confirm heirship before a deed can be recorded cleanly.",
+    "Neither situation is unusual, and neither should be treated as a reason not to start the process. Starting earlier, even with incomplete records, is generally the fastest path, since it gives more time for any needed probate or heirship work to run in parallel with the evaluation and negotiation stages."
+   ]
+  },
+  {
+   "heading": "What we need from you at each stage",
+   "paragraphs": [
+    "At the evaluation stage, whatever documents you have is enough to start, even if incomplete. By the title work stage, we will let you know specifically what is still needed, whether that is a probate filing, an heirship affidavit, or simply a signature confirming your identity matches the county's records. At closing, the requirement is straightforward: sign the deed and any required closing paperwork.",
+    "Throughout, we try to tell you plainly what stage the process is in and what, if anything, is waiting on you versus waiting on title work or paperwork moving through the county."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take from first contact to closing?",
+   "answer": "For an interest with clean, documented title, a few weeks is typical. For interests requiring probate or heirship documentation first, it takes longer, though the sale itself moves quickly once title is clear."
+  },
+  {
+   "question": "Do I need a lawyer involved?",
+   "answer": "A title company or closing attorney is typically involved to confirm title and prepare the deed. Beyond that, having your own attorney review documents is optional but reasonable, especially for larger or shared interests."
+  },
+  {
+   "question": "What if I change my mind partway through?",
+   "answer": "Until closing documents are signed, you are free to step back at any point without obligation."
+  },
+  {
+   "question": "Can multiple family members go through this process together?",
+   "answer": "Yes, this is common. Each heir generally reviews their own share, and the process accommodates several owners signing separately for their respective portions."
+  },
+  {
+   "question": "What is the slowest part of the process typically?",
+   "answer": "For most families, title work involving probate or heirship documentation is the stage most likely to add time. Starting that work as early as possible generally keeps the overall timeline shorter."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsalabama-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

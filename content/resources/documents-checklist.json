@@ -1,0 +1,68 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Alabama Mineral Rights",
+ "metaDescription": "The deed, probate, lease, and statement records that speed up an Alabama mineral rights sale, and what to do first if you cannot locate them.",
+ "heroLead": "Nothing slows a mineral sale down like paperwork that has to be tracked down after the fact, so here is what to gather first.",
+ "intro": [
+  "Selling a mineral interest is, underneath the negotiation, a title exercise. A buyer has to be confident they are purchasing exactly what they think they are purchasing, from the person or people who actually own it, free of conflicting claims. The documents below are what makes that confidence possible without weeks of courthouse research, and gathering them ahead of time is the single biggest thing an Alabama owner can do to move a sale along at a reasonable pace.",
+  "Not every file below will apply to every owner. Someone who bought a producing interest recently has a very different folder than someone who inherited a fractional share of family land four generations back. Use this as a checklist to work through, not a requirement that every box gets checked."
+ ],
+ "sections": [
+  {
+   "heading": "Proof of ownership",
+   "paragraphs": [
+    "The deed that conveyed the mineral or royalty interest into your name, or into the name of whoever you inherited from, is the core document. If you bought the interest, you likely have a copy from closing. If you inherited it, the relevant record is usually a probated will, letters of administration, or an affidavit of heirship recorded in the county where the minerals sit, tracing the chain from the original owner down to you.",
+    "In counties across the Black Warrior basin, it is common for mineral interests to have passed through two or three generations without ever being formally probated, especially on land that has been in a family since before coalbed methane development made the minerals worth tracking closely. If that describes your situation, do not panic, but do expect the title work to take longer, and expect a serious buyer to ask early whether probate has been completed."
+   ]
+  },
+  {
+   "heading": "Lease and division order records",
+   "paragraphs": [
+    "If your minerals are currently leased or already producing, gather any lease agreement you have, along with division orders and recent check stubs or royalty statements. These tell a buyer the royalty rate, the operator, which well or wells are involved, and roughly what the interest has been paying, all of which shapes how they think about value.",
+    "If you have never received a royalty check and are not sure whether your minerals are leased at all, that is useful information too. It usually means either the interest has not been included in a producing unit yet, or paperwork was never completed under your name after an inheritance. Either way, say so rather than guessing."
+   ]
+  },
+  {
+   "heading": "Identification and tax records",
+   "paragraphs": [
+    "Standard identification is needed for the closing itself, and a recent property tax statement for the mineral interest, where one exists, helps confirm the parcel and county records match what you believe you own. Alabama counties handle mineral tax assessment differently, and some fractional interests are assessed jointly with surface land, which is worth flagging early if it applies to you.",
+    "If you have a Social Security number or tax ID readily available for the closing paperwork, that speeds the final steps, though it is not something to send over email or an unsecured form. Any buyer handling this properly will route that exchange through a closing agent or title company, not an open inbox."
+   ]
+  },
+  {
+   "heading": "What to do if records are missing",
+   "paragraphs": [
+    "It is genuinely common for Alabama families to hold mineral interests with incomplete paper trails, particularly where the same acreage has passed down without a formal will. If that is your situation, a probate attorney can usually establish heirship even years after the fact, and a title company doing due diligence on a purchase can often work from county deed records and tax rolls to fill gaps rather than requiring every document up front.",
+    "Start by pulling whatever you do have, even partial or unclear, and let the process identify what is actually missing rather than assuming a sale is impossible without a complete file. Most gaps are fixable with a probate filing or an affidavit, and a buyer who does this regularly will tell you which route applies to your specific case."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I inherited my interest but the estate was never probated. Can I still sell?",
+   "answer": "Often yes, though it may require an affidavit of heirship or a probate filing first to establish clear title. Talk to a probate attorney to determine the fastest path for your specific family situation."
+  },
+  {
+   "question": "What if I do not know which county my minerals are in?",
+   "answer": "That is common for older inherited interests. A deed record, an old lease, or a tax statement usually identifies it, and if none of those are available, county record searches can typically locate the parcel from a family name and rough location."
+  },
+  {
+   "question": "Do I need the original deed, or is a copy acceptable?",
+   "answer": "A copy is generally sufficient for evaluation purposes, since the recorded version in the county courthouse is the official record that matters at closing."
+  },
+  {
+   "question": "How long does it take to gather everything?",
+   "answer": "For owners with a complete file, it can take a day or two. For interests requiring probate or heirship documentation, plan on several weeks depending on the county and whether other heirs need to be located."
+  }
+ ],
+ "wordCount": 899,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsalabama-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

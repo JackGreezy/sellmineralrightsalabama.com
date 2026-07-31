@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightsalabama.com/sitemap.xml
+# AI: https://sellmineralrightsalabama.com/llms.txt

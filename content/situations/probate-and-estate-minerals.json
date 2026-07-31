@@ -1,0 +1,80 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights During Alabama Probate",
+ "metaDescription": "Executors settling an Alabama estate with mineral or royalty interests: see how a sale during probate works, what authority you need, and how proceeds get distributed.",
+ "heroLead": "An executor closing out an Alabama estate often finds mineral interests buried in the inventory with no clear instructions on whether to keep them, distribute them among heirs, or sell them outright.",
+ "intro": [
+  "Mineral rights show up in Alabama estates more often than people expect, sometimes as a single named tract, sometimes as a fractional interest the decedent themselves inherited decades earlier and barely thought about. As executor, you are responsible for identifying, valuing, and either distributing or liquidating that interest as part of settling the estate, and mineral interests do not fit neatly into the tools most estate attorneys use for real estate or securities.",
+  "We work directly with executors and estate attorneys to value and, where the estate chooses to sell, purchase mineral interests as part of estate administration. Our documentation is built to satisfy probate court requirements and to give heirs a clear record of how proceeds were determined."
+ ],
+ "sections": [
+  {
+   "heading": "What Authority You Need Before Selling",
+   "paragraphs": [
+    "Whether you can sell a mineral interest during probate, and what authority you need to do it, depends on how the will is written and whether the estate is being administered with full or limited authority under Alabama law. Some wills grant an executor broad power to sell estate assets outright; others require heir consent or court approval for certain transactions. That determination is one for your estate attorney, and we will always ask to see documentation of your authority before closing.",
+    "If heirs would rather receive the mineral interest itself through distribution rather than have the estate sell it, that is also a normal path, and several heirs sometimes choose to sell their individual shares to us separately after distribution rather than the estate selling as a whole."
+   ]
+  },
+  {
+   "heading": "Valuing the Interest for the Estate Inventory",
+   "paragraphs": [
+    "We can provide a written valuation for use in the estate inventory or for tax reporting purposes, based on the interest's production status, recent royalty history if available, and location. This is useful even for estates that ultimately choose to distribute rather than sell, since heirs and the court both benefit from having a documented, defensible number rather than a guess.",
+    "Where the interest has no clean recent history, which is common with older estates, we do the research ourselves through county records and operator division order files rather than asking the executor to reconstruct decades of paperwork."
+   ]
+  },
+  {
+   "heading": "Distributing Proceeds Among Multiple Heirs",
+   "paragraphs": [
+    "When an estate sells a mineral interest with multiple heirs entitled to a share, we can structure the closing so proceeds are distributed according to the will or Alabama's intestacy rules, coordinated with the executor and attorney. This is often simpler for everyone involved than distributing the physical interest itself and then having each heir separately decide whether to sell their fraction."
+   ]
+  },
+  {
+   "heading": "When the Decedent's Own Ownership Was Never Fully Clear",
+   "paragraphs": [
+    "It is not unusual for an executor to discover that the decedent's own mineral ownership was itself incompletely documented, perhaps inherited from an even earlier estate that was never properly probated, or acquired through a deed that was recorded decades ago and never cross-referenced against later ownership changes. In those cases, we do the title reconstruction work at the county level before finalizing any valuation, so the estate is not left guessing at what it is actually entitled to sell.",
+    "This kind of title curative work can take longer than a straightforward sale, and we are upfront with executors about that timeline so it can be planned into the broader probate schedule rather than becoming a surprise late in the process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if the decedent's own title to the minerals was never fully clear?",
+   "answer": "We handle that title reconstruction at the county level as part of the valuation process, and we will tell you upfront if it is likely to extend the timeline before the estate can close."
+  },
+  {
+   "question": "Can an estate sell mineral rights before probate is fully closed?",
+   "answer": "Often yes, depending on the executor's authority under the will and Alabama probate law. Your estate attorney can confirm what your specific letters of authority allow."
+  },
+  {
+   "question": "What documentation will you need from the estate?",
+   "answer": "Typically letters testamentary or letters of administration, the will if one exists, and whatever deed or prior division order documentation shows the estate's ownership of the interest."
+  },
+  {
+   "question": "Is a valuation from you sufficient for the estate inventory?",
+   "answer": "We provide written documentation many estates and attorneys use for inventory and tax purposes, though your attorney or accountant should confirm it meets your specific filing requirements."
+  },
+  {
+   "question": "What if heirs disagree about whether to sell?",
+   "answer": "That decision generally rests with the executor within their authority, or with the heirs once the interest is distributed to them individually. We stay out of that decision and support whichever path the estate chooses."
+  },
+  {
+   "question": "Can you work directly with our estate attorney instead of just the executor?",
+   "answer": "Yes, we regularly coordinate directly with estate counsel on documentation, timing, and closing mechanics, and many attorneys prefer that direct line of communication."
+  },
+  {
+   "question": "How is the sale price determined for estate tax or step-up basis purposes?",
+   "answer": "We provide a written valuation tied to the interest's production status and location as of the relevant date, which many estates use for that purpose, though your accountant should confirm it fits your specific filing needs."
+  }
+ ],
+ "status": "written",
+ "wordCount": 904,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsalabama-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

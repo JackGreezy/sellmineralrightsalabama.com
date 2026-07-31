@@ -1,0 +1,204 @@
+/* ========= */
+/* Locations */
+/* ========= */
+
+/*.page-template-page-locations .entry-header,*/
+/*.page-template-page-locations .entry-content {*/
+/*  max-width: 1170px;*/
+/*  width: 93%;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+.page-template-page-locations li.location a {
+  /*color: #5482ab;*/
+  color: #D2A71F;
+}
+
+.page-template-page-locations li.location a:hover {
+  text-decoration: underline;
+}
+
+.page-template-page-locations .entry-header {
+  padding: 0px 20px 20px;
+  border-bottom: 1px solid #5482ab;
+}
+
+@media (min-width: 600px) {
+  .page-template-page-locations .entry-header {
+    padding-bottom: 50px;
+  }
+}
+
+@media screen and ( max-width: 700px ) {
+  .page-template-page-locations h1.entry-title {
+    padding-top: 130px !important;
+  }
+}
+
+/* @media (min-width: 1024px) {
+  .page-template-page-locations .entry-header {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+} */
+
+@media (min-width: 1500px) {
+  .page-template-page-locations .entry-header {
+    padding-top: 0px;
+    padding-bottom: 50px;
+  }
+}
+
+.page-template-page-locations .entry-header .entry-title {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+/* States Dropdown */
+
+.page-template-page-locations .entry-content .location-menu {
+  padding: 20px;
+  position: relative;
+}
+
+.page-template-page-locations .entry-content .location-menu label {
+  display: none;
+}
+
+.page-template-page-locations .entry-content .location-menu .select-skin {
+  position: absolute;
+  background-color: #d4d5d2;
+  /* max-width: 410px; */
+  width: 350px;
+  right: 0;
+  /* margin: 0 auto; */
+  cursor: pointer;
+}
+
+.page-template-page-locations .entry-content .location-menu .select-wrap {
+  position: relative;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-size: auto 30%;
+  background-position: 94.5% center;
+}
+
+.page-template-page-locations .entry-content .location-menu .select-wrap:after {
+  content: "";
+  position: absolute;
+  background-color: #fff;
+  height: 100%;
+  width: 5px;
+  display: block;
+  right: 50px;
+  top: 0;
+}
+
+.page-template-page-locations .entry-content .location-menu select {
+  border: none;
+  box-shadow: none;
+  background: transparent;
+  background-image: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  height: 58px;
+  text-shadow: 0 0 0 #fff;
+  z-index: 99;
+  padding: 0 15px;
+  font-size: 14px;
+  font-size: 1.4rem;
+  width: 100%;
+}
+
+.page-template-page-locations .entry-content .location-grid {
+  margin: 60px auto;
+  padding: 0 20px;
+  max-width: 93%;
+}
+
+@media (min-width: 600px) {
+  .page-template-page-locations .entry-content .location-grid {
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .page-template-page-locations .entry-content .location-grid {
+    padding: 0;
+  }
+}
+
+.page-template-page-locations .entry-content .location-grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.page-template-page-locations .entry-content .location {
+  margin-bottom: 60px;
+  list-style-type: none;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 600px) {
+  .page-template-page-locations .entry-content .location {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(50% - 30px);
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-template-page-locations .entry-content .location {
+    width: calc(33.3333% - 30px);
+    margin-bottom: 40px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .page-template-page-locations .entry-content .location {
+    width: calc(25% - 30px);
+    margin-bottom: 40px;
+  }
+}
+
+.page-template-page-locations .entry-content .location p {
+  margin-bottom: 0;
+}
+
+.page-template-page-locations .entry-content .location-title {
+  text-transform: uppercase;
+  font-weight: 400;
+  /*color: #b2b4b3;*/
+}
+
+.page-template-page-locations .entry-content .location-map,
+.page-template-page-locations .entry-content .location-jobs {
+  font-weight: 700;
+  /*color: #5482ab;*/
+  color: #D2A71F;
+}
+
+.page-template-page-locations .entry-content .location-map {
+  font-style: italic;
+}
+
+.page-template-page-locations .entry-content .location-details {
+  margin: 15px 0;
+  font-size: 15px;
+}
+
+.page-template-page-locations .entry-content .location-jobs {
+  display: block;
+  /* margin-top: 5px; */
+}

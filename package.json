@@ -1,0 +1,8 @@
+{
+  "name": "sellmineralrightsalabama-com",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static faithful build already generated in public'"
+  }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Alabama Mineral Rights",
+ "metaDescription": "How information you share about your Alabama mineral or royalty interest is collected, used, and protected when you contact us or request an evaluation.",
+ "heroLead": "The details you share about your mineral interest and your family's ownership are sensitive, and we treat them that way from the first message onward.",
+ "intro": [
+  "This page explains, in plain language, what information we collect when you reach out or request an evaluation, how it is used, and what choices you have. We think a privacy policy should actually be readable, so we have kept legal boilerplate to a minimum while still covering what matters.",
+  "If you have questions about anything below, or want to know specifically what information we hold about you, reach out through our contact page and we will respond directly."
+ ],
+ "sections": [
+  {
+   "heading": "What we collect",
+   "paragraphs": [
+    "When you contact us or request an evaluation, we collect what you choose to share, which typically includes your name, contact information, the county where your minerals are located, and any documents you send such as a deed, lease, division order, or royalty statement. We also collect basic technical information from website visits, such as browser type and general location, through standard analytics tools.",
+    "We do not require sensitive identification numbers or financial account details to have an initial conversation or evaluation. Those are only requested later, through a secure closing process, if you decide to move forward with a sale."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "Information you share is used to evaluate your mineral interest, respond to your questions, and, if you choose to proceed, facilitate a closing through a title company or closing attorney. We do not sell your personal information to third parties, and we do not use your documents for any purpose beyond evaluating and, if applicable, completing a transaction with you.",
+    "We may retain records of past conversations and evaluations for our own business purposes, such as following up if you asked us to check back later, but we will not use that history to pressure you toward a decision."
+   ]
+  },
+  {
+   "heading": "How it is protected and who sees it",
+   "paragraphs": [
+    "Documents and personal information you share are handled through reasonably secure channels, and access is limited to the people directly involved in evaluating your interest or handling a closing, such as a title company when a transaction proceeds. We do not publish or publicly disclose details about specific owners or their interests.",
+    "If a closing does proceed, certain information necessarily becomes part of the public record when a mineral deed is recorded at the county probate office, which is standard for any real property transaction and outside our control once recording occurs."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold about you, request that we stop contacting you, or ask that non-essential records be deleted, subject to any records we are required to retain for legal or transactional reasons after a closing. Reach out through the contact page with any such request.",
+    "Nothing about declining to share information, or asking us to stop, affects any prior transaction you may have completed with us."
+   ]
+  },
+  {
+   "heading": "Information shared by multiple family members",
+   "paragraphs": [
+    "Where an interest is shared among several heirs, information one family member shares with us about the interest, such as county, production history, or family land records, may be used to evaluate the interest as a whole, since fractional shares in a single unit are generally evaluated together. Each individual owner's personal contact information and documents are still handled as described above.",
+    "If a family member asks us not to discuss the interest with other relatives without their involvement, we will respect that request within what is reasonably practical given that co-owners of the same interest often need to coordinate at some point regardless."
+   ]
+  },
+  {
+   "heading": "Cookies and website analytics",
+   "paragraphs": [
+    "Like most websites, we use basic analytics tools to understand how visitors use the site, such as which pages are viewed and roughly how visitors arrived here. This is aggregate, general information used to improve the site and is not tied to your identity unless you separately contact us and provide personal information directly.",
+    "You can generally control cookies and tracking through your own browser settings if you prefer not to be included in this general analytics data."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my information to other companies?",
+   "answer": "No. We do not sell your personal information or documents to third parties."
+  },
+  {
+   "question": "Will my family's ownership details become public?",
+   "answer": "Only to the extent standard for any real property transaction, meaning a recorded deed becomes part of the county's public record if a sale closes. We do not otherwise publicize owner details."
+  },
+  {
+   "question": "Can I request that you delete my information?",
+   "answer": "Yes, subject to any records we are required to retain for legal or transactional purposes after a completed closing. Reach out through the contact page to make this request."
+  },
+  {
+   "question": "How do you protect documents I send you?",
+   "answer": "We limit access to information and documents to those directly involved in evaluating your interest or handling a closing, and we use reasonably secure channels for anything sensitive."
+  },
+  {
+   "question": "What happens to my information if I decide not to sell?",
+   "answer": "It remains on file for our own reference, but we will not use it to pressure future contact, and you can request it be removed at any time by reaching out through the contact page."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsalabama-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

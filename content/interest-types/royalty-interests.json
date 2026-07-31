@@ -1,0 +1,70 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Sell a Royalty Interest in Alabama Oil, Gas, or CBM",
+ "metaDescription": "Own a mineral royalty interest tied to Alabama oil, gas, or coalbed methane production? See how royalty interests are valued and sold, separate from the minerals.",
+ "heroLead": "A royalty interest is the income right that comes along with mineral ownership once a lease is signed, and for a lot of Alabama families it is the version of ownership they know best, because it is the check that actually shows up every month.",
+ "intro": [
+  "When mineral rights are leased to an operator, the mineral owner retains a royalty, a defined percentage of production revenue paid without any obligation to cover drilling or operating costs. That royalty share is what most Alabama owners think of when they picture oil and gas income: no bills, no exposure to being asked to pay for a dry hole, just a check tied to a percentage of what the well actually produces and sells.",
+  "Royalty interests can be owned alongside the underlying mineral rights, or they can be a standalone interest if the minerals themselves were sold or reserved separately at some point in the property's history. Either way, valuing one comes down to the same core question: what does the production history actually show, and where is that well or unit headed."
+ ],
+ "sections": [
+  {
+   "heading": "What Drives Royalty Value More Than Anything Else",
+   "paragraphs": [
+    "Recent production history is the single most important input. We want to see 12 to 36 months of check stubs or division order statements whenever possible, since that tells us the actual decline rate rather than a theoretical one. A royalty that has been flat or declining slowly is worth more per dollar of current income than one that has been dropping sharply, even if the most recent check looks similar.",
+    "Current and expected commodity pricing matters just as much. Natural gas pricing swings can move the value of an Alabama CBM royalty considerably from one year to the next, and oil pricing does the same for royalties tied to south Alabama Smackover or Norphlet production. Any number we give reflects pricing conditions at the time, which is why we hedge our ranges rather than quote a fixed multiple that could be stale within months."
+   ]
+  },
+  {
+   "heading": "Producing, Non-Producing, and Shut-In Royalties",
+   "paragraphs": [
+    "A producing royalty has current income and a track record to value against. A shut-in royalty is tied to a well that has been temporarily taken offline, often for mechanical, market, or regulatory reasons, and still holds value based on the well's remaining potential once it resumes. A non-producing royalty on unleased minerals has no income at all and is valued on leasing potential instead. We are direct with owners about which category their interest falls into, since the valuation approach differs meaningfully across the three."
+   ]
+  },
+  {
+   "heading": "Why Owners Sell a Royalty Interest They Are Actively Collecting On",
+   "paragraphs": [
+    "Selling a currently paying royalty is a bet that the certainty and immediate use of a lump sum outweighs the total value of continued monthly checks over the well's remaining life, adjusted for the time value of money and the real risk that production and pricing decline further. That calculation is different for every owner depending on their financial situation, age, and plans for the proceeds, and we are glad to walk through the tradeoff honestly rather than push a one-size answer."
+   ]
+  },
+  {
+   "heading": "Reading a Royalty Statement Correctly",
+   "paragraphs": [
+    "Alabama royalty statements vary widely by operator in how much detail they actually show, and owners sometimes misread a deduction line as an error when it is a standard, lease-permitted cost of getting gas to market, such as gathering or compression charges. Other times a genuine underpayment does occur, whether from a miscalculated decimal interest or a missed price adjustment, and catching that requires comparing your statement against your actual decimal share and the lease's royalty clause.",
+    "We review statements as part of any valuation, partly to build an accurate offer and partly because that review sometimes surfaces a payment issue worth raising with the operator before you ever get to the question of selling."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between a royalty interest and mineral rights?",
+   "answer": "Mineral rights include the authority to lease and negotiate terms. A royalty interest is the resulting income share from an existing lease, without any leasing control of its own."
+  },
+  {
+   "question": "How much production history do you need to value my royalty?",
+   "answer": "Ideally 12 to 36 months of statements, which lets us see the actual decline trend rather than a single snapshot. We can still work with less, but the range will be wider."
+  },
+  {
+   "question": "What is a shut-in royalty and is it still worth selling?",
+   "answer": "It is a royalty on a well temporarily taken offline. It can still have real value based on the well's remaining potential once production resumes, and we evaluate those interests regularly."
+  },
+  {
+   "question": "Do I owe anything toward drilling or operating costs as a royalty owner?",
+   "answer": "No, royalty owners are paid free of drilling and operating expenses. Those costs are borne by the working interest owner, not the royalty holder."
+  },
+  {
+   "question": "How do I know if my royalty statement deductions are normal?",
+   "answer": "Post-production deductions like gathering or compression are common and often lease-permitted. We review statements as part of valuation and can flag anything that looks inconsistent with your lease terms."
+  }
+ ],
+ "status": "written",
+ "wordCount": 874,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsalabama-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

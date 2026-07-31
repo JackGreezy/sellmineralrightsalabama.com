@@ -1,0 +1,32 @@
+{
+  "src": "https://www.hntb.com/",
+  "host": "hntb.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.hntb.com/",
+      "bytes": 629295
+    },
+    {
+      "label": "about",
+      "url": "https://www.hntb.com/about/",
+      "bytes": 399977
+    },
+    {
+      "label": "contact",
+      "url": "https://www.hntb.com/contact/",
+      "bytes": 206688
+    },
+    {
+      "label": "index",
+      "url": "https://www.hntb.com/project-list/",
+      "bytes": 212180
+    },
+    {
+      "label": "slug",
+      "url": "https://www.hntb.com/projects/gov-mario-m-cuomo-bridge/",
+      "bytes": 211558
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

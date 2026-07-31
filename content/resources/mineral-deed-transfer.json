@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Alabama Mineral Deeds & Title Transfer Explained",
+ "metaDescription": "How a mineral deed transfers ownership in Alabama, what title work confirms before closing, and common issues with older family-held interests.",
+ "heroLead": "A mineral deed is a short document that does something significant: it moves ownership of what is under the ground without touching whoever owns the surface above it.",
+ "intro": [
+  "Alabama recognizes what is called a severed mineral estate, meaning the minerals beneath a tract of land can be owned separately from the surface, and can be sold, leased, or inherited entirely independent of who owns the farm, timberland, or house sitting on top. A mineral deed is the instrument that transfers that separate ownership, and understanding how it works clears up a lot of confusion for owners who assumed their mineral rights were tied to a piece of surface land they may not even still own.",
+  "This is especially common across the Black Warrior basin counties, where surface land was often sold off generations ago while the minerals stayed in the family, or the reverse happened and minerals were sold or reserved separately from a farm sale decades back. Either way, the mineral deed record, not the surface deed, is what governs ownership of what is beneath it."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed contains",
+   "paragraphs": [
+    "A properly drafted mineral deed identifies the grantor and grantee, the legal description of the tract using the section-township-range system common in Alabama's public land survey counties, and the specific interest being conveyed, whether that is a full mineral fee, a fractional undivided interest, or a royalty-only interest that excludes the right to lease or explore. It also typically states whether existing leases are excepted from or included in the conveyance.",
+    "Precision matters here more than almost anywhere else in the transaction. A deed that conveys minerals under an inaccurate legal description, or is vague about whether it includes coalbed methane rights specifically as opposed to conventional oil and gas, can create title problems that surface years later, often when a buyer or operator's title examiner runs the chain."
+   ]
+  },
+  {
+   "heading": "How title is confirmed before closing",
+   "paragraphs": [
+    "Before a sale closes, a title company or closing attorney typically runs the chain of title back through the county's deed records, confirming each prior conveyance was properly executed and recorded, that any probate along the way was handled correctly, and that there are no unreleased liens, unresolved heirship claims, or conflicting deeds affecting the same interest. This is standard due diligence, not a sign anything is wrong with your ownership.",
+    "In counties where mineral interests were fractionalized across multiple generations of heirs without formal probate at each step, this process can take longer and sometimes surfaces gaps that need an heirship affidavit or a probate filing to resolve before the deed can be recorded cleanly. This is common enough in Alabama that most experienced buyers have a standard process for working through it rather than treating it as a dealbreaker."
+   ]
+  },
+  {
+   "heading": "Recording and what happens after",
+   "paragraphs": [
+    "Once signed, a mineral deed is recorded in the probate office of the county where the minerals are located, which is Alabama's version of the county recorder for real property matters. Recording puts the transfer on public notice and protects the buyer's ownership against later claims. Until recorded, a deed can still be technically valid between the parties but vulnerable to competing claims by someone unaware of the sale.",
+    "After recording, the new owner is responsible for updating division order paperwork with any operator, handling future lease negotiations if the minerals are unleased, and any property tax obligations tied to the interest going forward. The seller's obligations end at closing, aside from any warranties made in the deed itself regarding the validity of title conveyed."
+   ]
+  },
+  {
+   "heading": "Warranty versus quitclaim conveyances",
+   "paragraphs": [
+    "Most mineral deeds used in a straightforward purchase are warranty deeds, meaning the seller affirmatively warrants they own what they are conveying and will defend that title if a claim surfaces later. A quitclaim deed, by contrast, conveys only whatever interest the grantor happens to hold, with no warranty attached, and is more commonly used to clear up a specific gap in the chain, such as an heir signing over a disputed fractional share, rather than as the primary instrument in a sale.",
+    "Which form applies to your transaction matters, particularly for inherited interests where the exact fractional share among several heirs was never formally divided on paper. A title company or closing attorney handling the deed will typically recommend the form that fits your specific chain of title rather than defaulting to one or the other automatically."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to own the surface land to sell my mineral rights?",
+   "answer": "No. Mineral rights and surface rights are separate estates under Alabama law and can be owned, sold, or inherited independently of each other."
+  },
+  {
+   "question": "What is the difference between a mineral deed and a quitclaim deed?",
+   "answer": "A mineral deed specifically conveys the mineral estate with defined terms about what interest is included. A quitclaim deed transfers only whatever interest the grantor happens to hold, without warranty, and is sometimes used to clear up minor title gaps rather than for a primary sale."
+  },
+  {
+   "question": "Where does a mineral deed get recorded in Alabama?",
+   "answer": "In the probate office of the county where the minerals are located, which serves as the county's land records office for these purposes."
+  },
+  {
+   "question": "What if there is a gap in the chain of title on my family's minerals?",
+   "answer": "This is common on older, inherited interests and is usually resolvable with a probate filing or heirship affidavit. A title company or probate attorney handling the closing can typically identify exactly what is needed."
+  },
+  {
+   "question": "How long does it usually take to get a mineral deed recorded?",
+   "answer": "Once signed and submitted, most Alabama probate offices record a deed within a matter of days to a couple of weeks, though timing varies by county and how busy the office is at the time."
+  }
+ ],
+ "wordCount": 980,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsalabama-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,456 @@
+{
+  "notes": "Faithful HNTB relabel for an Alabama mineral acquisition desk. The donor's white Interstate header, full-bleed visual hero, gold editorial rules, wide split-image bands, responsive perspective and location rails, project-grid indexes, full-width project detail articles, and restrained gray footer remain the visual system.",
+  "refhost": "hntb-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "chrome": {
+    "header": {
+      "selector": "#primary-nav",
+      "tag": "header",
+      "force_tag": true,
+      "wrap_header": false,
+      "strip_global": [
+        "body > img",
+        "img[width=\"1\"]",
+        "img[height=\"1\"]",
+        "iframe[src*=\"googletagmanager\"]",
+        ".grecaptcha-badge",
+        ".cky-overlay",
+        ".cky-btn-revisit-wrapper",
+        ".cky-consent-container",
+        ".cky-modal",
+        "access-widget-ui",
+        ".acsb-trigger",
+        ".acsb-sr-only"
+      ],
+      "strip": [
+        ".skip-link",
+        ".menu-toggle",
+        "noscript"
+      ],
+      "logo_slots": [
+        "#headSection > a",
+        "#mobileHeader > a"
+      ],
+      "nav_link_selector": "#mega-menu-primary > li:nth-child(-n+4) > a.mega-menu-link",
+      "dropdown_host_selector": "#mega-menu-primary > li:nth-child(-n+4)",
+      "mobile_menu_slot": "#mega-menu-primary",
+      "burger_selector": "#mega-toggle-block-0 button",
+      "burger_slot": "#site-navigation",
+      "ensure_nav": false,
+      "utility_links": {
+        "selector": "#mega-menu-primary > li:nth-child(n+5) > a.mega-menu-link",
+        "keep": [
+          ["205-555-1043", "tel:+12055551043"],
+          ["Request Review", "/contact#contact-form"]
+        ]
+      },
+      "repair_css": "header#primary-nav{position:relative!important;z-index:2147480000!important;display:block!important;width:100%!important;min-height:104px!important;margin:0!important;overflow:visible!important;background:#fff!important;color:#404040!important;border-bottom:1px solid rgba(23,45,63,.12)!important;font-family:'Interstate',Arial,sans-serif!important}header#primary-nav #headSection{box-sizing:border-box!important;display:flex!important;align-items:center!important;width:min(1500px,calc(100% - 64px))!important;min-height:104px!important;margin:0 auto!important;padding:0!important;gap:clamp(22px,2.6vw,48px)!important;overflow:visible!important}header#primary-nav #headSection>a{display:flex!important;align-items:center!important;flex:0 0 auto!important;min-width:225px!important;color:#173d59!important;text-decoration:none!important}header#primary-nav .rr-wordmark{gap:.18rem!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;line-height:.9!important;letter-spacing:.055em!important}header#primary-nav .rr-wm-1{font-size:.84rem!important;font-weight:800!important}header#primary-nav .rr-wm-2{color:#d19f2d!important;font-size:1.08rem!important;font-weight:800!important}header#primary-nav #site-navigation{display:flex!important;align-items:center!important;flex:1 1 auto!important;min-width:0!important;overflow:visible!important}header#primary-nav #mega-menu-wrap-primary,header#primary-nav #mega-menu-primary{display:flex!important;align-items:stretch!important;justify-content:flex-end!important;flex:1 1 auto!important;overflow:visible!important;background:transparent!important}header#primary-nav #mega-menu-primary>li{position:relative!important;display:flex!important;align-items:stretch!important;min-width:0!important}header#primary-nav #mega-menu-primary>li>a.mega-menu-link{display:flex!important;align-items:center!important;justify-content:center!important;min-height:104px!important;padding:0 clamp(.65rem,1.05vw,1.15rem)!important;color:#3c454b!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(.7rem,.77vw,.88rem)!important;font-weight:750!important;line-height:1.1!important;text-align:center!important;text-decoration:none!important;text-transform:uppercase!important;letter-spacing:.025em!important;white-space:nowrap!important}header#primary-nav #mega-menu-primary>li:nth-child(5)>a{color:#173d59!important;font-weight:850!important}header#primary-nav #mega-menu-primary>li:nth-child(6)>a{min-height:48px!important;margin:auto 0 auto .6rem!important;padding:0 1.15rem!important;background:#d19f2d!important;color:#112f44!important}header#primary-nav #mobileHeader{display:none!important}header#primary-nav #searchBttn,header#primary-nav #searchBttn_mobile{display:grid!important;place-items:center!important;flex:0 0 40px!important;width:40px!important;height:40px!important;margin-left:.3rem!important;color:#173d59!important;cursor:pointer!important}header#primary-nav #search{position:absolute!important;z-index:2147481500!important;top:100%!important;right:max(32px,calc((100vw - 1500px)/2))!important;display:none!important;width:min(460px,calc(100vw - 32px))!important;padding:24px!important;background:#fff!important;border-top:4px solid #d19f2d!important;box-shadow:0 18px 42px rgba(17,47,68,.2)!important}body.rr-search-open header#primary-nav #search{display:block!important}header#primary-nav #search form{display:flex!important;align-items:stretch!important;gap:0!important;margin:0!important}header#primary-nav #search input[type=search]{box-sizing:border-box!important;flex:1 1 auto!important;min-width:0!important;height:50px!important;padding:0 14px!important;border:1px solid #9ca8af!important;font-family:'Interstate',Arial,sans-serif!important;font-size:1rem!important}header#primary-nav #search input[type=submit]{height:50px!important;padding:0 18px!important;border:0!important;background:#173d59!important;color:#fff!important;font-family:'Interstate',Arial,sans-serif!important;font-weight:800!important}.rr-dropdown-host::before{height:20px!important}@media(max-width:1220px){header#primary-nav #headSection{width:calc(100% - 32px)!important;gap:14px!important}header#primary-nav #headSection>a{min-width:195px!important}header#primary-nav #mega-menu-primary>li>a.mega-menu-link{padding:0 .58rem!important;font-size:.67rem!important}header#primary-nav #mega-menu-primary>li:nth-child(6)>a{padding:0 .75rem!important}}@media(max-width:980px){header#primary-nav{min-height:78px!important}header#primary-nav #headSection{display:flex!important;width:100%!important;min-height:78px!important;padding:0 18px!important}header#primary-nav #headSection>a{display:none!important}header#primary-nav #site-navigation{justify-content:flex-end!important}header#primary-nav #mega-menu-primary{display:none!important}header#primary-nav #mega-menu-wrap-primary{display:flex!important;justify-content:flex-end!important}header#primary-nav .mega-menu-toggle.rr-burger{display:flex!important}header#primary-nav #mobileHeader{display:flex!important;align-items:center!important;position:absolute!important;left:18px!important;top:0!important;height:78px!important;max-width:calc(100% - 92px)!important}header#primary-nav #mobileHeader>a{display:flex!important;align-items:center!important;color:#173d59!important;text-decoration:none!important}header#primary-nav #mobileHeader .rr-wm-1{font-size:.72rem!important}header#primary-nav #mobileHeader .rr-wm-2{font-size:.92rem!important}header#primary-nav #searchBttn{display:none!important}header#primary-nav #search{right:16px!important}}"
+    },
+    "footer": {
+      "selector": "#colophon",
+      "tag": "footer",
+      "strip": [
+        "#footerLogo",
+        ".socialMedia",
+        ".widget-title",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "script",
+        "noscript",
+        "iframe",
+        "address"
+      ],
+      "columns": [
+        {
+          "heading": "Alabama Owner Desk",
+          "links": [
+            ["Call 205-555-1043", "tel:+12055551043"],
+            ["alabama@sellmineralrightsalabama.com", "mailto:alabama@sellmineralrightsalabama.com"],
+            ["Request an Alabama Review", "/contact#contact-form"],
+            ["About the Acquisition Desk", "/about"]
+          ]
+        },
+        {
+          "heading": "Review the Interest",
+          "links": [
+            ["Owner Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Black Warrior Basin", "/basins/black-warrior-basin"],
+            ["Alabama Owner Guides", "/resources"],
+            ["Mineral Investing", "/investing"]
+          ]
+        },
+        {
+          "heading": "Alabama Coverage",
+          "links": [
+            ["All Alabama Areas", "/locations"],
+            ["Birmingham", "/locations/birmingham-al"],
+            ["Tuscaloosa", "/locations/tuscaloosa-al"],
+            ["Mobile", "/locations/mobile-al"],
+            ["1031 Exchange Guides", "/exchange-1031"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": "#menu-footer-nav > li",
+      "replace_column_siblings": true,
+      "column_heading_selector": ":scope > a:first-child",
+      "drop_link_pattern": "Employee Access|Password Reset|File Transfer|LinkedIn|Facebook|Twitter|Youtube|Instagram|Cookie|Sitemap",
+      "tagline_pattern": "All Rights Reserved|HNTB",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": "footer#colophon{display:block!important;position:relative!important;overflow:hidden!important;background:#5c656d!important;color:#fff!important;font-family:'Interstate',Arial,sans-serif!important}footer#colophon .footer-bottom{box-sizing:border-box!important;width:min(1500px,calc(100% - 64px))!important;margin:0 auto!important;padding:clamp(3.5rem,6vw,6rem) 0 2rem!important}footer#colophon .grid.bottomBrdr{display:block!important;width:100%!important;margin:0!important;padding:0 0 2.5rem!important;border-bottom:1px solid rgba(255,255,255,.34)!important}footer#colophon #primary-footer-nav{display:block!important;width:100%!important}footer#colophon #menu-footer-nav{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(2rem,5vw,6rem)!important;margin:0!important;padding:0!important;list-style:none!important}footer#colophon #menu-footer-nav>li{display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:.72rem!important;margin:0!important;padding:0!important;border:0!important}footer#colophon #menu-footer-nav>li>a{display:block!important;color:#fff!important;font-size:.94rem!important;line-height:1.35!important;text-decoration:none!important}footer#colophon #menu-footer-nav>li>a:first-child{margin-bottom:.75rem!important;color:#f1c34f!important;font-size:.78rem!important;font-weight:850!important;letter-spacing:.12em!important;text-transform:uppercase!important}footer#colophon .copyrightTxt{display:flex!important;align-items:center!important;justify-content:space-between!important;min-height:72px!important;color:#fff!important;font-size:.78rem!important}footer#colophon .rr-footer-ia{display:flex!important;flex-wrap:wrap!important;gap:12px 22px!important;margin-top:1.5rem!important;padding-top:1.25rem!important;border-top:1px solid rgba(255,255,255,.22)!important}footer#colophon .rr-footer-ia a{color:#fff!important;font-size:.76rem!important;text-decoration:none!important}footer#colophon .rr-footer-map{display:block!important;width:100%!important;min-height:360px!important;margin-top:2.5rem!important;border:0!important}footer#colophon img,footer#colophon picture,footer#colophon svg,footer#colophon video,footer#colophon source,footer#colophon canvas{display:none!important}@media(max-width:800px){footer#colophon .footer-bottom{width:calc(100% - 32px)!important}footer#colophon #menu-footer-nav{grid-template-columns:1fr!important}footer#colophon .copyrightTxt{align-items:flex-start!important;flex-direction:column!important;gap:14px!important;padding:20px 0!important}}"
+    }
+  },
+  "purge": {
+    "attr_replacements": [
+      ["https?://(?:www\\.)?hntb\\.com/featured-insights/?", "/resources"],
+      ["https?://(?:www\\.)?hntb\\.com/about/featured-people/?", "/about"],
+      ["https?://(?:www\\.)?hntb\\.com/news/?", "/resources"]
+    ],
+    "brand": [
+      "\\bHNTB\\b",
+      "hntb\\.com",
+      "Delivering the extraordinary"
+    ],
+    "content": [
+      "Mario M. Cuomo Bridge",
+      "Making Connections Possible",
+      "People Empowered",
+      "Employee-Owned",
+      "Community-Driven",
+      "Vision & Values",
+      "Industry Perspectives",
+      "Al Readiness and Strategic Planning",
+      "Kennedy Expressway",
+      "O’Hare International Airport",
+      "Brent Spence Bridge",
+      "Harbor Bridge Replacement"
+    ],
+    "strip_selectors": [
+      "body > img",
+      "img[width=\"1\"]",
+      "img[height=\"1\"]",
+      "iframe[src*=\"googletagmanager\"]",
+      ".grecaptcha-badge",
+      ".cky-overlay",
+      ".cky-btn-revisit-wrapper",
+      ".cky-consent-container",
+      ".cky-modal",
+      "access-widget-ui",
+      ".acsb-trigger",
+      ".acsb-sr-only",
+      "#masthead",
+      ".wppopups-whole",
+      "[class^=spu-]",
+      "[class*=spu-]",
+      ".video-popup",
+      ".video-placeholder-youtube",
+      "body > iframe",
+      "noscript"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "recaptcha",
+      "SmartSlider",
+      "n2ss"
+    ],
+    "social_pattern": "facebook\\.com|instagram\\.com|linkedin\\.com|twitter\\.com|x\\.com|youtube\\.com|tiktok\\.com"
+  },
+  "buttons": {
+    "class": "n2-style-525221449702b2737ebbe21c534284b2-heading n2-ow"
+  },
+  "forms": {
+    "wrap_class": "panel-grid-cell",
+    "form_class": "search-form",
+    "input_class": "search-field",
+    "group_class": ""
+  },
+  "pages": {
+    "legal_template": "slug",
+    "home": {
+      "signature": [
+        "#n2-ss-1476",
+        "#n2-ss-1497",
+        "#n2-ss-968",
+        "#n2-ss-1480",
+        "#n2-ss-971",
+        "#n2-ss-972"
+      ],
+      "semantic_title_selector": "#n2-ss-1476item1",
+      "strip": [
+        ".cky-consent-container",
+        ".cky-btn-revisit-wrapper",
+        "access-widget-ui",
+        ".n2-ss-slide--focus"
+      ],
+      "sections": [
+        {
+          "selector": "#n2-ss-1476",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-1476item1", "copy": "home_title", "tag": "h1"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-1477",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-1477item1", "copy": "home_title", "tag": "h2"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-1497",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-1497item1", "copy": "home_eyebrow"},
+            {"sel": "#n2-ss-1497item2", "copy": "home_intro_title"},
+            {"sel": "p", "html": "Alabama mineral rights require a tract-specific review of ownership, lease terms, paid decimals, production evidence, and written offer scope. <a href=\"/about\">About the Alabama acquisition desk</a>."},
+            {"sel": "picture", "html": "<img src=\"/ours/basins/mineral-rights-basins-black-warrior-basin-sellmineralrightsalabama-com.jpg\" alt=\"Black Warrior Basin mineral rights review\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-968",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-968item9,#n2-ss-968item24,#n2-ss-968item31", "text": "OWNER SITUATIONS"},
+            {"sel": "#n2-ss-968item10,#n2-ss-968item25,#n2-ss-968item32", "copy": "home_situations_title"},
+            {"sel": "p", "copy": "home_situations_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Review Owner Situations", "href": "/situations"},
+            {"sel": ".n2-ss-button-container a", "nth": 1, "text": "Compare Interest Types", "href": "/interest-types"},
+            {"sel": ".n2-ss-button-container a", "nth": 3, "text": "Compare Interest Types", "href": "/interest-types"},
+            {"sel": ".n2-ss-button-container a", "nth": 5, "text": "Compare Interest Types", "href": "/interest-types"},
+            {"sel": "picture", "html": "<img src=\"/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsalabama-com.jpg\" alt=\"Inherited Alabama mineral rights\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-1480",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-1480item1,#n2-ss-1480item9,#n2-ss-1480item17", "text": "OWNER GUIDES"},
+            {"sel": "#n2-ss-1480item2,#n2-ss-1480item10,#n2-ss-1480item18", "copy": "home_resources_title"},
+            {"sel": "p", "copy": "home_resources_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Explore Alabama Owner Guides", "href": "/resources"},
+            {"sel": ".n2-ss-button-container a", "nth": 1, "text": "Review Mineral Investing", "href": "/investing"},
+            {"sel": ".n2-ss-button-container a", "nth": 2, "text": "Review 1031 Exchange Timing", "href": "/exchange-1031"},
+            {"sel": "picture", "html": "<img src=\"/ours/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsalabama-com.jpg\" alt=\"Alabama mineral rights owner guides\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-971",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-971item2,#n2-ss-971item14,#n2-ss-971item22,#n2-ss-971item35,#n2-ss-971item47,#n2-ss-971item55,#n2-ss-971item68,#n2-ss-971item80,#n2-ss-971item91,#n2-ss-971item101,#n2-ss-971item113,#n2-ss-971item122", "text": "ALABAMA COVERAGE"},
+            {"sel": "#n2-ss-971item3,#n2-ss-971item15,#n2-ss-971item23,#n2-ss-971item36,#n2-ss-971item48,#n2-ss-971item56,#n2-ss-971item69,#n2-ss-971item81,#n2-ss-971item92,#n2-ss-971item102,#n2-ss-971item114,#n2-ss-971item123", "copy": "home_locations_title"},
+            {"sel": "p", "copy": "home_locations_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Explore Alabama Areas", "href": "/locations"},
+            {"sel": ".n2-ss-button-container a", "nth": 1, "text": "Review the Black Warrior Basin", "href": "/basins"},
+            {"sel": ".n2-ss-button-container a", "nth": 3, "text": "Review the Black Warrior Basin", "href": "/basins"},
+            {"sel": ".n2-ss-button-container a", "nth": 5, "text": "Review the Black Warrior Basin", "href": "/basins"},
+            {"sel": "picture", "html": "<img src=\"/ours/locations/sell-mineral-rights-birmingham-al.jpg\" alt=\"Alabama mineral rights coverage\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-972",
+          "action": "relabel",
+          "ops": [
+            {"sel": "a", "text": "Request an Alabama Mineral Review", "href": "/contact#contact-form"}
+          ]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "#n2-ss-971",
+          "type": "direct",
+          "track": ".n2-ss-slider-4",
+          "slides": ".n2-ss-slide",
+          "visible": 1,
+          "autoplay": 6500
+        }
+      ],
+      "repair_css": "body[data-rr-page=home]{font-family:'Interstate',Arial,sans-serif!important}body[data-rr-page=home] #n2-ss-1476,body[data-rr-page=home] #n2-ss-1477{position:relative!important;min-height:min(760px,70vw)!important}body[data-rr-page=home] #n2-ss-1476 img,body[data-rr-page=home] #n2-ss-1477 img{width:100%!important;height:100%!important;object-fit:cover!important}body[data-rr-page=home] #n2-ss-1476item1{max-width:920px!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(3.1rem,7vw,7.8rem)!important;font-weight:300!important;line-height:.93!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=home] picture img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}body[data-rr-page=home] .n2-ss-button-container a{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:48px!important;padding:0 22px!important;background:#d19f2d!important;color:#173d59!important;font-weight:800!important;text-decoration:none!important}body[data-rr-page=home] #n2-ss-971{position:relative!important}body[data-rr-page=home] #n2-ss-971>.rr-carousel-controls{right:clamp(18px,4vw,64px)!important;bottom:clamp(18px,4vw,52px)!important}body[data-rr-page=home] #n2-ss-971 .rr-carousel-control{background:#173d59!important;border:1px solid #fff!important;color:#fff!important}@media(max-width:760px){body[data-rr-page=home] #n2-ss-1476,body[data-rr-page=home] #n2-ss-1477{min-height:560px!important}body[data-rr-page=home] #n2-ss-1476item1{font-size:clamp(2.6rem,13vw,4.8rem)!important}}"
+    },
+    "about": {
+      "signature": [
+        "#n2-ss-980",
+        "#n2-ss-994",
+        "#n2-ss-987",
+        "#n2-ss-988",
+        "#n2-ss-989",
+        "#n2-ss-986"
+      ],
+      "semantic_title_selector": "#n2-ss-980item1",
+      "strip": [
+        ".video-popup",
+        ".video-placeholder-youtube"
+      ],
+      "sections": [
+        {
+          "selector": "#n2-ss-980",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-980item1", "copy": "about_title", "tag": "h1"},
+            {"sel": "p", "copy": "about_story_body"},
+            {"sel": "picture", "html": "<img src=\"/ours/pages/mineral-rights-pages-about-sellmineralrightsalabama-com.jpg\" alt=\"Alabama mineral acquisition desk\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-997",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-997item1", "copy": "about_title", "tag": "h2"},
+            {"sel": "p", "copy": "about_story_body"},
+            {"sel": "picture", "html": "<img src=\"/ours/pages/mineral-rights-pages-about-sellmineralrightsalabama-com.jpg\" alt=\"Alabama mineral acquisition desk\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-994",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-994item2,#n2-ss-994item8,#n2-ss-994item14", "copy": "about_story_title"},
+            {"sel": "p", "copy": "about_story_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Review Owner Situations", "href": "/situations"},
+            {"sel": "picture", "html": "<img src=\"/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsalabama-com.jpg\" alt=\"Alabama mineral ownership records\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-987",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-987item2,#n2-ss-987item7,#n2-ss-987item11", "copy": "about_terms_title"},
+            {"sel": "p", "copy": "about_terms_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Compare Interest Types", "href": "/interest-types"},
+            {"sel": "picture", "html": "<img src=\"/ours/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsalabama-com.jpg\" alt=\"Alabama royalty interest review\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-988",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-988item1,#n2-ss-988item5,#n2-ss-988item9", "copy": "about_scope_title"},
+            {"sel": "p", "copy": "about_scope_body"},
+            {"sel": "picture", "html": "<img src=\"/ours/basins/mineral-rights-basins-black-warrior-basin-sellmineralrightsalabama-com.jpg\" alt=\"Black Warrior Basin mineral review\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-989",
+          "action": "relabel",
+          "ops": [
+            {"sel": "#n2-ss-989item2,#n2-ss-989item8,#n2-ss-989item13", "copy": "about_close_title"},
+            {"sel": "p", "copy": "about_close_body"},
+            {"sel": ".n2-ss-button-container a", "text": "Build the Alabama Owner File", "href": "/resources"},
+            {"sel": "picture", "html": "<img src=\"/ours/pages/mineral-rights-pages-how-it-works-sellmineralrightsalabama-com.jpg\" alt=\"Alabama mineral rights closing record\">"}
+          ]
+        },
+        {
+          "selector": "#n2-ss-986",
+          "action": "relabel",
+          "ops": [
+            {"sel": "a", "text": "Request an Alabama Mineral Review", "href": "/contact#contact-form"}
+          ]
+        }
+      ],
+      "repair_css": "body[data-rr-page=internal] #n2-ss-980 picture img,body[data-rr-page=internal] #n2-ss-997 picture img,body[data-rr-page=internal] #n2-ss-994 picture img,body[data-rr-page=internal] #n2-ss-987 picture img,body[data-rr-page=internal] #n2-ss-988 picture img,body[data-rr-page=internal] #n2-ss-989 picture img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}body[data-rr-page=internal] #n2-ss-980item1{max-width:900px!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(2.8rem,5.6vw,6.3rem)!important;line-height:.95!important;word-break:normal!important;overflow-wrap:normal!important}"
+    },
+    "contact": {
+      "signature": [
+        ".component_heading",
+        ".siteorigin-widget-tinymce.textwidget"
+      ],
+      "semantic_title_selector": ".component_heading h1.left",
+      "strip": [],
+      "sections": [
+        {
+          "selector": ".component_heading",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1.left", "copy": "contact_title"}
+          ]
+        },
+        {
+          "selector": ".siteorigin-widget-tinymce.textwidget",
+          "action": "relabel",
+          "ops": [
+            {"self": true, "sel": ".siteorigin-widget-tinymce.textwidget", "html": "<div id=\"contact-form\"><h2>Start With the Alabama Record in Hand</h2><p>Share the Alabama county, interest type, producing status, operator or payor if known, recent statement detail, and the decision that needs a clearer answer. The review can begin with the records already available.</p></div>"}
+          ]
+        }
+      ],
+      "form_slot": "#contact-form",
+      "submit_label": "Request an Alabama Review",
+      "repair_css": "body[data-rr-page=internal] .component_heading{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,8vw,8rem) 0 2.5rem!important}body[data-rr-page=internal] .component_heading h1{margin:0!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(2.8rem,6vw,6.2rem)!important;font-weight:300!important;line-height:.95!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=internal] .component_heading h1:after{content:''!important;display:block!important;width:92px!important;height:6px!important;margin-top:1.5rem!important;background:#d19f2d!important}body[data-rr-page=internal] .siteorigin-widget-tinymce.textwidget{box-sizing:border-box!important;display:grid!important;grid-template-columns:minmax(0,.9fr) minmax(420px,1.1fr)!important;gap:clamp(2.5rem,7vw,7rem)!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important;padding:2rem 0 clamp(5rem,9vw,9rem)!important;color:#3c454b!important}body[data-rr-page=internal] #contact-form h2{margin:0 0 1.25rem!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(2rem,3.4vw,3.6rem)!important;font-weight:400!important;line-height:1.02!important}body[data-rr-page=internal] #contact-form p{font-size:1.12rem!important;line-height:1.7!important}body[data-rr-page=internal] #contact-form form{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;margin-top:2rem!important}body[data-rr-page=internal] #contact-form form input,body[data-rr-page=internal] #contact-form form textarea{box-sizing:border-box!important;width:100%!important;min-height:54px!important;padding:14px 16px!important;border:1px solid #9aa6ad!important;border-radius:0!important;background:#fff!important;color:#26343d!important;font-family:'Interstate',Arial,sans-serif!important;font-size:1rem!important}body[data-rr-page=internal] #contact-form form textarea{grid-column:1/-1!important;min-height:170px!important;resize:vertical!important}body[data-rr-page=internal] #contact-form form button{grid-column:1/-1!important;justify-self:start!important;min-height:52px!important;padding:0 25px!important;border:0!important;background:#d19f2d!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-weight:850!important;cursor:pointer!important}@media(max-width:820px){body[data-rr-page=internal] .siteorigin-widget-tinymce.textwidget{grid-template-columns:1fr!important}body[data-rr-page=internal] #contact-form form{grid-template-columns:1fr!important}body[data-rr-page=internal] #contact-form form textarea,body[data-rr-page=internal] #contact-form form button{grid-column:auto!important}}"
+    },
+    "index": {
+      "signature": [
+        ".entry-header",
+        "#project-list.main-listing",
+        ".project-item"
+      ],
+      "hero_heading": ".entry-header h1",
+      "semantic_title_selector": ".entry-header h1",
+      "strip": [
+        ".category-menu",
+        ".pagination",
+        ".arch-nav"
+      ],
+      "grid": "#project-list.main-listing",
+      "card": ".project-item",
+      "clear_selector": ".project-item",
+      "card_fields": {
+        "title": ".project-item-overlay p",
+        "image": "img",
+        "_link_card": true
+      },
+      "repair_css": "body[data-rr-page=internal]{font-family:'Interstate',Arial,sans-serif!important;color:#3c454b!important}body[data-rr-page=internal] .entry-header{box-sizing:border-box!important;width:min(1380px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,8vw,8rem) 0 3rem!important}body[data-rr-page=internal] .entry-header h1{margin:0!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(3rem,6vw,6.8rem)!important;font-weight:300!important;line-height:.95!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=internal] .entry-header h1:after{content:''!important;display:block!important;width:92px!important;height:6px!important;margin-top:1.5rem!important;background:#d19f2d!important}body[data-rr-page=internal] #project-list.main-listing{box-sizing:border-box!important;display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(1.25rem,2.5vw,2.5rem)!important;width:min(1380px,calc(100% - 48px))!important;margin:0 auto!important;padding:0 0 clamp(5rem,9vw,9rem)!important}body[data-rr-page=internal] #project-list .project-item{display:block!important;position:relative!important;float:none!important;width:auto!important;min-width:0!important;margin:0!important;aspect-ratio:1.22/1!important;overflow:hidden!important}body[data-rr-page=internal] #project-list .project-item>a{display:block!important;width:100%!important;height:100%!important}body[data-rr-page=internal] #project-list .project-item img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;transition:transform .35s ease!important}body[data-rr-page=internal] #project-list .project-item:hover img{transform:scale(1.035)!important}body[data-rr-page=internal] #project-list .project-item-overlay{display:flex!important;align-items:flex-end!important;position:absolute!important;inset:0!important;padding:clamp(1rem,2.1vw,2rem)!important;background:linear-gradient(180deg,transparent 30%,rgba(11,39,58,.9) 100%)!important}body[data-rr-page=internal] #project-list .project-item-overlay p{margin:0!important;color:#fff!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(1.15rem,1.55vw,1.7rem)!important;font-weight:750!important;line-height:1.12!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}@media(max-width:900px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:1fr!important}}"
+    },
+    "slug": {
+      "signature": [
+        ".projects-slider",
+        ".projects--title",
+        ".projects-single"
+      ],
+      "title": ".projects--title h1",
+      "semantic_title_selector": ".projects--title h1",
+      "hero_meta": ".projects--title p.alternative",
+      "hero_meta_full": true,
+      "hero_image": ".projects-slider .slides > li:first-child img",
+      "not_found_slot": ".projects-single .siteorigin-widget-tinymce.textwidget",
+      "prose": ".projects-single",
+      "prose_block": ".projects-single .siteorigin-widget-tinymce.textwidget",
+      "prose_block_heading": ".__none__",
+      "prose_block_body": ".__none__",
+      "skip_related_in_prose": false,
+      "skip_detail_cta_in_prose": false,
+      "demote_extra_title_h1": true,
+      "strip": [
+        ".projects-slider .slides > li:nth-child(n+2)",
+        ".flex-control-nav",
+        ".flex-direction-nav",
+        ".projects--overview",
+        ".projects-single img",
+        ".projects-single picture",
+        ".projects-single video",
+        ".projects-single svg"
+      ],
+      "repair_css": "body[data-rr-page=internal]{font-family:'Interstate',Arial,sans-serif!important;color:#3c454b!important}body[data-rr-page=internal] .projects-slider{display:block!important;width:100%!important;max-width:none!important;margin:0!important;overflow:hidden!important;background:#173d59!important}body[data-rr-page=internal] .projects-slider .flexslider,body[data-rr-page=internal] .projects-slider .slides,body[data-rr-page=internal] .projects-slider .slides>li{display:block!important;width:100%!important;height:clamp(360px,46vw,690px)!important;margin:0!important;padding:0!important}body[data-rr-page=internal] .projects-slider .slides>li:first-child img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}body[data-rr-page=internal] .projects--title{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important;padding:clamp(3rem,6vw,6rem) 0 clamp(2rem,4vw,4rem)!important;color:#173d59!important}body[data-rr-page=internal] .projects--title h1{max-width:1000px!important;margin:0 0 1rem!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(2.7rem,5.6vw,6rem)!important;font-weight:300!important;line-height:.96!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}body[data-rr-page=internal] .projects--title p.alternative{max-width:820px!important;margin:0!important;color:#4c5961!important;font-size:1.1rem!important;line-height:1.65!important}body[data-rr-page=internal] .projects-single{box-sizing:border-box!important;display:block!important;width:min(1180px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0 0 clamp(5rem,9vw,9rem)!important;color:#35444d!important}body[data-rr-page=internal] .projects-single article,body[data-rr-page=internal] .projects-single .entry-content,body[data-rr-page=internal] .projects-single .panel-grid,body[data-rr-page=internal] .projects-single .panel-grid-cell{display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget{box-sizing:border-box!important;display:grid!important;grid-template-columns:minmax(220px,.38fr) minmax(0,1fr)!important;gap:clamp(2rem,6vw,6rem)!important;width:100%!important;max-width:none!important;margin:0!important;padding:clamp(2.3rem,4.5vw,4.5rem) 0!important;border-top:1px solid #c7ced2!important;background:transparent!important;color:#35444d!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget>h2{margin:0!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(1.7rem,2.8vw,3rem)!important;font-weight:450!important;line-height:1.04!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget>div{min-width:0!important;color:#35444d!important;font-size:1.08rem!important;line-height:1.72!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget p,body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget li{color:#35444d!important;font-size:1.08rem!important;line-height:1.72!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget h3{margin:2rem 0 .55rem!important;color:#173d59!important;font-family:'Interstate',Arial,sans-serif!important;font-size:1.35rem!important;line-height:1.2!important}body[data-rr-page=internal] .projects-single .rr-related-grid{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:0!important;margin:1rem 0 0!important;border-top:5px solid #d19f2d!important}body[data-rr-page=internal] .projects-single .rr-related-card{display:flex!important;align-items:flex-end!important;min-height:170px!important;padding:24px!important;border:0!important;border-right:1px solid #c4cdd2!important;background:#edf0f2!important;box-shadow:none!important;color:#173d59!important}body[data-rr-page=internal] .projects-single .rr-related-card span{font-size:1.2rem!important;line-height:1.18!important}body[data-rr-page=internal] .projects-single .rr-related-card small{color:#6a747a!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget:last-child{margin-top:2rem!important;padding:clamp(2.5rem,5vw,5rem)!important;border-top:6px solid #d19f2d!important;background:#173d59!important;color:#fff!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget:last-child h2,body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget:last-child>div{color:#fff!important}body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget:last-child a{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:52px!important;padding:0 24px!important;background:#d19f2d!important;color:#173d59!important;font-weight:850!important;text-decoration:none!important}@media(max-width:820px){body[data-rr-page=internal] .projects-single .siteorigin-widget-tinymce.textwidget{grid-template-columns:1fr!important;gap:1.25rem!important}body[data-rr-page=internal] .projects-single .rr-related-grid{grid-template-columns:1fr!important}body[data-rr-page=internal] .projects-single .rr-related-card{min-height:110px!important;border-right:0!important;border-bottom:1px solid #c4cdd2!important}}"
+    }
+  },
+  "final_repair_css": "html,body{max-width:100%!important;overflow-x:hidden!important}body,h1,h2,h3,h4,h5,h6,p,a,li,input,textarea,button{font-family:'Interstate',Arial,sans-serif!important}h1,h2,h3,h4,h5,h6,p,a,li{word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}main{display:block!important;min-height:55vh!important}body[data-rr-page=internal] main{background:#fff!important}a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{outline:3px solid #d19f2d!important;outline-offset:3px!important}"
+}

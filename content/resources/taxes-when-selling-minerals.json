@@ -1,0 +1,68 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Alabama Mineral Rights",
+ "metaDescription": "How a sale of Alabama mineral rights is generally taxed, including basis, stepped-up basis for inherited interests, and questions to bring to your CPA.",
+ "heroLead": "Taxes are usually the last thing an owner thinks about when weighing whether to sell, and the first thing that should shape the decision, because the after-tax number is the only number that actually matters.",
+ "intro": [
+  "We approach every conversation about selling with the same question a family office would ask about any asset sale: what does this look like after taxes, well beyond the number written on the closing statement. The general framework below is meant to help you ask better questions of your CPA, not to substitute for their advice, since your specific basis, holding period, and overall tax picture will determine what actually applies.",
+  "This is one area where getting it right before closing matters more than almost anything else in the transaction, because basis and holding period questions are far easier to sort out ahead of a sale than to reconstruct afterward."
+ ],
+ "sections": [
+  {
+   "heading": "How a sale is generally taxed",
+   "paragraphs": [
+    "A sale of mineral rights is typically treated as a sale of a capital asset, meaning gain is calculated as the sale price minus your basis in the interest. If you held the interest for more than a year, which is nearly always the case for inherited or long-owned family minerals, the gain is generally eligible for long-term capital gains treatment rather than ordinary income rates, though your CPA should confirm this applies to your specific circumstances.",
+    "This is a meaningfully different tax outcome than royalty income you may have received while holding the interest, which is generally taxed as ordinary income in the year received. The distinction matters when comparing the after-tax value of continuing to hold and receive royalties against the after-tax proceeds of a sale."
+   ]
+  },
+  {
+   "heading": "Basis, and why inherited interests are often favorable",
+   "paragraphs": [
+    "Basis is what determines how much of the sale price is taxable gain versus a tax-free return of your investment. If you purchased the mineral interest directly, your basis is generally what you paid for it. If you inherited it, your basis is typically stepped up to the fair market value of the interest at the date of the decedent's death, rather than whatever the original owner paid decades earlier.",
+    "This stepped-up basis is often the single most valuable, and most overlooked, detail for Alabama families holding minerals that passed down through generations. An interest with a fair market value close to today's sale price at the time of inheritance can mean relatively little taxable gain on a sale, even though the family's original acquisition cost decades ago was essentially nothing. Establishing that historical value, sometimes through a retroactive appraisal, is worth discussing with your CPA before assuming the worst about your tax exposure."
+   ]
+  },
+  {
+   "heading": "Depletion and prior deductions",
+   "paragraphs": [
+    "If you claimed a depletion deduction against royalty income while holding the interest, that generally reduces your basis over time, which in turn can affect the gain calculated on an eventual sale. Your CPA will need your history of prior depletion deductions, if any, to calculate this accurately, so gathering past tax returns showing royalty income and any deductions claimed is worth doing before you sit down to discuss a sale.",
+    "For owners who never claimed depletion because the royalty income was too small to bother tracking, this is a simpler calculation, but it is still worth confirming rather than assuming."
+   ]
+  },
+  {
+   "heading": "State considerations and timing",
+   "paragraphs": [
+    "Alabama state income tax generally follows federal treatment of capital gains, though your CPA can confirm how this applies given your full state tax picture, particularly if you live out of state but the minerals are located in Alabama. Timing a sale within a given tax year, especially alongside other income or losses, can also affect your overall liability, which is another reason to loop in your CPA before closing rather than after.",
+    "None of this is tax advice specific to your situation. Every family's basis history, prior deductions, and broader tax picture is different, and the only way to know exactly what a sale means for you is to talk to your CPA or tax advisor before you sign anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will I owe capital gains tax on selling inherited mineral rights?",
+   "answer": "Likely on some portion of the sale price, though a stepped-up basis at the date of inheritance often significantly reduces the taxable gain compared to what the original owner would have owed. Confirm the specifics with your CPA."
+  },
+  {
+   "question": "Is royalty income taxed the same way as sale proceeds?",
+   "answer": "No. Royalty income received while you hold the interest is generally taxed as ordinary income, while gain from selling the interest is generally treated as capital gain. Your CPA can explain how each affects your overall tax picture."
+  },
+  {
+   "question": "What if I do not know the value of the minerals at the time I inherited them?",
+   "answer": "This is common, and a CPA or appraiser can often help establish a reasonable historical value for basis purposes even years after the fact. It is worth doing before a sale rather than guessing."
+  },
+  {
+   "question": "Does selling mineral rights affect my other taxes, like property tax?",
+   "answer": "Once sold, future property tax obligations tied to the mineral interest generally transfer to the buyer. Talk to your CPA about how the year of sale itself is handled for any prorated obligations."
+  }
+ ],
+ "wordCount": 893,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsalabama-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

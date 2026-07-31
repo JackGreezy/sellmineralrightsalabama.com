@@ -1,0 +1,79 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Alabama Mineral Rights Buyer",
+ "metaDescription": "Why we focus on Alabama mineral owners specifically, how we approach an evaluation, and what a patient, portfolio-minded process looks like from your side.",
+ "heroLead": "We buy Alabama mineral and royalty interests, and we spend most of our time on the two things that actually determine a fair number: your production history and the specific geology under your acreage.",
+ "intro": [
+  "Alabama's two producing regions do not behave the same way, and treating them as interchangeable is one of the fastest ways to get an evaluation wrong. Black Warrior basin coalbed methane wells in the west-central counties follow a dewatering ramp before gas flow peaks, while conventional oil wells down in south Alabama's Manila and Citronelle fields decline on a different timeline entirely. We built our process around understanding that difference, county by county, rather than applying one national formula to every owner who calls.",
+  "Most of the families we talk with inherited their interest rather than purchased it, often as a fractional share tied to land that has been passed down for generations without much documentation. We think that deserves a patient, plain-spoken process, not pressure to sign before you have had time to understand what you actually own."
+ ],
+ "sections": [
+  {
+   "heading": "How we think about an evaluation",
+   "paragraphs": [
+    "We approach every interest the way a family office would approach any income-producing or speculative asset: what is the production history, where does the well sit on its decline curve, what does recent activity in the county suggest about comparable value, and what does the after-tax outcome actually look like once your CPA weighs in. Value talk from us is always a range tied to your actual documents and recent activity, never a fixed figure quoted before we have seen your lease or division order.",
+    "If your minerals are unleased, we evaluate them differently, weighing nearby permitting and development trends rather than existing production, since there is no royalty history to project from yet."
+   ]
+  },
+  {
+   "heading": "What we do not do",
+   "paragraphs": [
+    "We do not pressure owners to sign quickly, and we do not quote a number before reviewing your specific documents. We are not licensed appraisers, attorneys, or CPAs, and we will tell you plainly when a question belongs with one of those professionals rather than pretending to have every answer ourselves.",
+    "We also do not require you to sell everything. If retaining a partial interest, an override, or a term interest fits your family's situation better than a full sale, we will discuss that structure honestly rather than steering every conversation toward the largest possible transaction."
+   ]
+  },
+  {
+   "heading": "Why we focus on Alabama specifically",
+   "paragraphs": [
+    "Working across a single state's producing regions, rather than spreading thin across the whole country, means we can speak specifically to what a well in Tuscaloosa or Fayette County has typically done over its production life, or what activity has looked like historically around Alabama's older conventional fields. That specificity is what lets us give you a grounded range instead of a generic guess.",
+    "It also means when your family's interest involves heirship gaps, missing probate records, or fractional ownership split among cousins you have never met, we have seen the pattern before and can point you toward what usually resolves it."
+   ]
+  },
+  {
+   "heading": "The reality of Alabama mineral ownership",
+   "paragraphs": [
+    "A large share of Alabama's mineral wealth sits with families rather than corporations, tracing back to land that stayed in the same hands for generations even as it was divided among children and grandchildren over time. Tenancy-in-common ownership, where several relatives each hold an undivided fractional interest in the same tract, is the norm rather than the exception here, particularly on land that predates coalbed methane development in the Black Warrior basin.",
+    "We think that reality calls for a process designed with it in mind, not a generic script written for a single owner with a clean deed. That means being comfortable coordinating with several heirs at once, explaining the same information more than once if different family members have questions, and being patient while probate or heirship paperwork catches up to where the family's actual ownership already stands."
+   ]
+  },
+  {
+   "heading": "How to start",
+   "paragraphs": [
+    "Reach out with whatever documents you have, even if incomplete, a lease, a division order, a royalty statement, or just a general sense of the county your family's minerals are located in. We will tell you honestly what we can evaluate from that starting point and what additional records, if any, would help.",
+    "There is no obligation attached to a conversation. Take the information, compare it against another source if you want, and decide on your own timeline."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed appraiser or attorney?",
+   "answer": "No. We evaluate mineral interests to make purchase offers, but we are not licensed appraisers, attorneys, or CPAs, and we will point you to those professionals when a question falls in their area."
+  },
+  {
+   "question": "Do you only buy producing interests?",
+   "answer": "No, we evaluate both producing and unleased interests, though the method and the range differ since unleased acreage has no production history to project from."
+  },
+  {
+   "question": "Will you pressure me to sell quickly?",
+   "answer": "No. We would rather you take the time to understand your interest and compare offers than sign before you are comfortable with the number."
+  },
+  {
+   "question": "What if my family's ownership is unclear or spread across several heirs?",
+   "answer": "This is common with inherited Alabama mineral interests. We can usually help identify what documentation is needed and point you toward a probate attorney if a formal filing is required first."
+  },
+  {
+   "question": "Do you work with families outside the Black Warrior basin too?",
+   "answer": "Yes. We evaluate interests across Alabama, including conventional acreage in the state's southern producing fields, and we tailor the approach to whichever play your minerals sit in."
+  }
+ ],
+ "wordCount": 942,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsalabama-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

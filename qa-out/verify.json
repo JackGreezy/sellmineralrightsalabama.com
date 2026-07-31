@@ -1,0 +1,13 @@
+{
+ "pages": 195,
+ "fails": [],
+ "warns": [
+  "G6 IMAGES: configured hero image not on situations.html",
+  "G6 IMAGES: configured hero image not on interest-types.html",
+  "G6 IMAGES: configured hero image not on basins.html",
+  "G6 IMAGES: configured hero image not on resources.html",
+  "G6 IMAGES: configured hero image not on investing.html",
+  "G6 IMAGES: configured hero image not on exchange-1031.html"
+ ],
+ "content_warnings": []
+}
