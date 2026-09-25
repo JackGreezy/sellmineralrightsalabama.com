@@ -1,0 +1,26 @@
+{
+  "classes": {},
+  "remove": {
+    "all": [
+      "footer .scroll-to-top",
+      ".n2_ss_video_play_btn"
+    ],
+    "slug": []
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "related": ".rr-taste-prose-shell",
+    "cta": "main"
+  },
+  "templates": {
+    "faq": "<section class=\"component_heading\"><div class=\"siteorigin-widget-tinymce textwidget\"><p class=\"text-large\">{kicker}</p><h2>{heading}</h2><p>{intro}</p><div class=\"panel-grid\">{items}</div></div></section>",
+    "faq_item": "<div class=\"panel-grid-cell\"><h3>{q}</h3>{a}</div>",
+    "related": "<aside class=\"box--dropshadow\"><div class=\"siteorigin-widget-tinymce textwidget\"><p><strong>{heading}</strong></p>{items}<p class=\"n2-ss-button-container\"><a href=\"{all_href}\">{all_label}</a></p></div></aside>",
+    "related_item": "<p><a href=\"{href}\"><strong>{name}</strong></a><br>{teaser}</p>",
+    "cta": "<section class=\"panel-grid\"><div class=\"container--boxed\"><div class=\"siteorigin-widget-tinymce textwidget\"><p class=\"text-large\">{title}</p><p>{intro}</p><p class=\"n2-ss-button-container\"><a href=\"{contact_href}\">{label}</a><a href=\"{tel_href}\">{phone}</a></p></div></div></section>"
+  }
+}

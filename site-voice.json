@@ -16,37 +16,88 @@
     ]
   },
   "scrub": [
-    ["\\bI['’]m\\b", "Sell Mineral Rights Alabama is"],
-    ["\\bI['’]ve\\b", "Sell Mineral Rights Alabama has"],
-    ["\\bI['’]ll\\b", "Sell Mineral Rights Alabama will"],
-    ["\\bI['’]d\\b", "Sell Mineral Rights Alabama would"],
-    ["\\bmyself\\b", "the owner directly"],
-    ["\\bmy\\b", "the owner's"],
-    ["\\bme\\b", "the owner"],
-    ["\\bI\\b", "the owner"],
-    ["\\bwe['’]ve\\b", "the Alabama acquisition desk has"],
-    ["\\bwe['’]re\\b", "the Alabama acquisition desk is"],
-    ["\\bwe['’]ll\\b", "the Alabama acquisition desk will"],
-    ["\\bwe['’]d\\b", "the Alabama acquisition desk would"],
-    ["\\bourselves\\b", "the Alabama acquisition desk"],
-    ["\\bours\\b", "the interest under review"],
-    ["\\bour\\b", "the Alabama acquisition desk's"],
-    ["\\bus\\b", "the Alabama acquisition desk"],
-    ["\\bwe\\b", "the Alabama acquisition desk"]
+    [
+      "\\bI['’]m\\b",
+      "Sell Mineral Rights Alabama is"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "Sell Mineral Rights Alabama has"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "Sell Mineral Rights Alabama will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "Sell Mineral Rights Alabama would"
+    ],
+    [
+      "\\bmyself\\b",
+      "the owner directly"
+    ],
+    [
+      "\\bmy\\b",
+      "the owner's"
+    ],
+    [
+      "\\bme\\b",
+      "the owner"
+    ],
+    [
+      "\\bI\\b",
+      "the owner"
+    ]
   ],
   "question_scrub": [
-    ["\\bHow do Sell Mineral Rights Alabama\\b", "How do you"],
-    ["\\bDoes Sell Mineral Rights Alabama\\b", "Do you"],
-    ["\\bCan Sell Mineral Rights Alabama\\b", "Can you"],
-    ["\\bWhat if Sell Mineral Rights Alabama\\b", "What if you"],
-    ["\\bIs Sell Mineral Rights Alabama\\b", "Are you"],
-    ["\\bWill Sell Mineral Rights Alabama\\b", "Will you"],
-    ["\\bShould Sell Mineral Rights Alabama\\b", "Should you"],
-    ["\\bthe Alabama acquisition desk['’]s\\b", "your"],
-    ["\\bthe Alabama acquisition desk\\b", "you"],
-    ["\\bthe owner['’]s\\b", "your"],
-    ["\\bthe owner\\b", "you"],
-    ["\\bSell Mineral Rights Alabama\\b", "you"]
+    [
+      "\\bHow do Sell Mineral Rights Alabama\\b",
+      "How do you"
+    ],
+    [
+      "\\bDoes Sell Mineral Rights Alabama\\b",
+      "Do you"
+    ],
+    [
+      "\\bCan Sell Mineral Rights Alabama\\b",
+      "Can you"
+    ],
+    [
+      "\\bWhat if Sell Mineral Rights Alabama\\b",
+      "What if you"
+    ],
+    [
+      "\\bIs Sell Mineral Rights Alabama\\b",
+      "Are you"
+    ],
+    [
+      "\\bWill Sell Mineral Rights Alabama\\b",
+      "Will you"
+    ],
+    [
+      "\\bShould Sell Mineral Rights Alabama\\b",
+      "Should you"
+    ],
+    [
+      "\\bthe Alabama acquisition desk['’]s\\b",
+      "your"
+    ],
+    [
+      "\\bthe Alabama acquisition desk\\b",
+      "you"
+    ],
+    [
+      "\\bthe owner['’]s\\b",
+      "your"
+    ],
+    [
+      "\\bthe owner\\b",
+      "you"
+    ],
+    [
+      "\\bSell Mineral Rights Alabama\\b",
+      "you"
+    ]
   ],
   "heroes": [
     [
@@ -130,12 +181,30 @@
     "nf_cta": "Return to the Alabama Owner Desk"
   },
   "about_blocks": [
-    ["Locate the Alabama Tract", "County, legal description, acreage, reservation language, estate type, formation and depth limits, and ownership fraction establish the interest under review."],
-    ["Name the Rights That Can Transfer", "Mineral, royalty, non-participating royalty, override, working interest, surface, product, formation, and depth language should be separated before an offer is compared."],
-    ["Read the Lease and Payment Record", "Royalty rate, valuation language, deductions, pooling authority, unit participation, division order, payor records, and monthly statements should lead to a documented paid decimal."],
-    ["Separate the Alabama Value Lines", "Producing coalbed methane, conventional oil income, undeveloped acreage, title risk, lease burdens, and closing costs belong on distinct evidence and assumption lines."],
-    ["Write the Offer Scope", "The tract schedule, estate type, products, formations, depths, effective date, retained rights, title conditions, expenses, and payment timing should appear in the written terms."],
-    ["Match the Alabama Recording", "The agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and fraction."]
+    [
+      "Locate the Alabama Tract",
+      "County, legal description, acreage, reservation language, estate type, formation and depth limits, and ownership fraction establish the interest under review."
+    ],
+    [
+      "Name the Rights That Can Transfer",
+      "Mineral, royalty, non-participating royalty, override, working interest, surface, product, formation, and depth language should be separated before an offer is compared."
+    ],
+    [
+      "Read the Lease and Payment Record",
+      "Royalty rate, valuation language, deductions, pooling authority, unit participation, division order, payor records, and monthly statements should lead to a documented paid decimal."
+    ],
+    [
+      "Separate the Alabama Value Lines",
+      "Producing coalbed methane, conventional oil income, undeveloped acreage, title risk, lease burdens, and closing costs belong on distinct evidence and assumption lines."
+    ],
+    [
+      "Write the Offer Scope",
+      "The tract schedule, estate type, products, formations, depths, effective date, retained rights, title conditions, expenses, and payment timing should appear in the written terms."
+    ],
+    [
+      "Match the Alabama Recording",
+      "The agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and fraction."
+    ]
   ],
   "slug_ui": {
     "faq_kicker": "ALABAMA RECORD CHECK",
@@ -148,25 +217,72 @@
   },
   "taxonomy_enrichment": {
     "locations": [
-      ["Anchor {name} to the Alabama County Record", "A location guide should lead back to a real tract record. The working file identifies the county, legal description, acreage, mineral reservation, estate type, formation and depth limits, owner fraction, and the deed, probate order, trust instrument, or corrective document supporting the ownership claim."],
-      ["Connect Local Activity to the Actual Interest", "Alabama activity varies by county, field, formation, tract, unit, operator, product, and project stage. Public wells and permits add context, while the private deed, lease, unit record, paid decimal, statement history, and title chain define the interest under review."],
-      ["Keep the {name} Review in Writing", "The owner copy should retain the source deed, lease, unit record, division order, statement evidence, title questions, written offer assumptions, retained-rights language, settlement record, funding confirmation, and county recording reference."]
+      [
+        "Anchor the Tract to the Alabama County Record",
+        "A location guide should lead back to a real tract record. The working file identifies the county, legal description, acreage, mineral reservation, estate type, formation and depth limits, owner fraction, and the deed, probate order, trust instrument, or corrective document supporting the ownership claim."
+      ],
+      [
+        "Connect Local Activity to the Actual Interest",
+        "Alabama activity varies by county, field, formation, tract, unit, operator, product, and project stage. Public wells and permits add context, while the private deed, lease, unit record, paid decimal, statement history, and title chain define the interest under review."
+      ],
+      [
+        "Keep the County Review in Writing",
+        "The owner copy should retain the source deed, lease, unit record, division order, statement evidence, title questions, written offer assumptions, retained-rights language, settlement record, funding confirmation, and county recording reference."
+      ]
     ],
     "investing": [
-      ["Separate Producing Evidence From the Investment Thesis", "An Alabama mineral package should be evaluated through distinct production, title, lease, and undeveloped-inventory lines. Historical checks support current-income analysis but do not guarantee future volumes, prices, or development. The production line should retain property identifiers, monthly volumes, products, realized prices, taxes, deductions, adjustments, downtime, operator and payor concentration, and the decimal actually paid. The title line should identify the source deed, reservations, probate or trust authority, owner fraction, formation and depth limits, and curative items. The lease line should record royalty rate, valuation language, deductions, pooling authority, amendments, and burdens. The undeveloped line should identify which permit, offset, leasing, or development facts are dated and verifiable. Keeping those records separate prevents a mature royalty check from being blended with uncertain future drilling."],
-      ["Stress the Alabama Assumptions", "The model for {name} should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or field activity moves. An upside case should label undeveloped drilling as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, permit, commodity price, or third-party agreement should be identified plainly."],
-      ["Keep the Underwriting Trail Auditable", "The file should preserve the source date for every statement, volume series, price assumption, lease term, ownership fraction, title conclusion, permit, field fact, and development scenario. Base, downside, and upside cases should be labeled as scenarios rather than promises. Each valuation line should point back to a document, public record, dated market input, or clearly disclosed judgment. The working schedule should distinguish facts supplied by the owner, facts found in county or state records, payor information, and assumptions that still require confirmation. If later evidence changes the paid decimal, lease burden, title fraction, producing status, product scope, or development timing, the model should show which line changed and why. That audit trail makes a sale comparison useful because the buyer and owner can discuss the same tract, evidence date, asset scope, and open conditions."]
+      [
+        "Separate Producing Evidence From the Investment Thesis",
+        "An Alabama mineral package should be evaluated through distinct production, title, lease, and undeveloped-inventory lines. Historical checks support current-income analysis but do not guarantee future volumes, prices, or development. The production line should retain property identifiers, monthly volumes, products, realized prices, taxes, deductions, adjustments, downtime, operator and payor concentration, and the decimal actually paid. The title line should identify the source deed, reservations, probate or trust authority, owner fraction, formation and depth limits, and curative items. The lease line should record royalty rate, valuation language, deductions, pooling authority, amendments, and burdens. The undeveloped line should identify which permit, offset, leasing, or development facts are dated and verifiable. Keeping those records separate prevents a mature royalty check from being blended with uncertain future drilling."
+      ],
+      [
+        "Stress the Alabama Assumptions",
+        "The model should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or field activity moves. An upside case should label undeveloped drilling as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, permit, commodity price, or third-party agreement should be identified plainly."
+      ],
+      [
+        "Keep the Underwriting Trail Auditable",
+        "The file should preserve the source date for every statement, volume series, price assumption, lease term, ownership fraction, title conclusion, permit, field fact, and development scenario. Base, downside, and upside cases should be labeled as scenarios rather than promises. Each valuation line should point back to a document, public record, dated market input, or clearly disclosed judgment. The working schedule should distinguish facts supplied by the owner, facts found in county or state records, payor information, and assumptions that still require confirmation. If later evidence changes the paid decimal, lease burden, title fraction, producing status, product scope, or development timing, the model should show which line changed and why. That audit trail makes a sale comparison useful because the buyer and owner can discuss the same tract, evidence date, asset scope, and open conditions."
+      ]
     ],
     "exchange-1031": [
-      ["Place {name} on the Exchange Calendar", "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before an Alabama mineral sale closes or proceeds are received. The working calendar should identify the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, title work, and closing dependencies. The schedule should also identify the exact selling taxpayer or entity, current vesting, relinquished-property description, anticipated proceeds, debt if any, possible replacement-property categories, advisor responsibilities, lender milestones, and the documents required before each closing. The Alabama acquisition desk can provide tract, title, offer, deed, settlement, and funding facts, but cannot determine eligibility or replace legal and tax advice. A dated responsibility list helps keep a title correction or settlement revision from being mistaken for an extension of a federal deadline."],
-      ["Keep Alabama Title Work and Federal Timing Distinct", "Deeds, probate, heirship, trusts, corrective instruments, payor records, and county recording can move on a different schedule from exchange deadlines. The file should identify the current record owner, vesting instrument, legal description, estate type, county, owner fraction, lease references, retained rights, and unresolved authority. It should also identify which person or entity can sign, whether any estate, trust, marital, lien, entity, or fractional-interest issue remains open, and whether the property description changes between the owner record and the proposed deed. Those facts determine what can be conveyed and who can authorize the transfer. The qualified intermediary, tax counsel, title professionals, and transaction parties should receive the same dated asset description so an Alabama title cure does not quietly alter the property scope, taxpayer identity, proceeds path, or exchange paperwork."],
-      ["Match the Property Scope Before Funds Move", "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, product, county, owner fraction, or entity. Qualified legal and tax advisors should resolve mismatches before reliance. The closing file should compare the purchase agreement, mineral deed, tract exhibit, effective date, producing and non-producing scope, retained interests, title conditions, settlement amounts, expenses, funding instructions, intermediary record, and county recording reference. Any boot, debt replacement, related-party issue, partial sale, entity mismatch, change in replacement property, receivable treatment, or disbursement question belongs with the appropriate advisors before closing. The final archive should preserve signed documents, funding confirmation, intermediary communications, settlement records, and recording evidence so the Alabama conveyance and the exchange record can be reconstructed consistently."]
+      [
+        "Place the Sale on the Exchange Calendar",
+        "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before an Alabama mineral sale closes or proceeds are received. The working calendar should identify the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, title work, and closing dependencies. The schedule should also identify the exact selling taxpayer or entity, current vesting, relinquished-property description, anticipated proceeds, debt if any, possible replacement-property categories, advisor responsibilities, lender milestones, and the documents required before each closing. The Alabama acquisition desk can provide tract, title, offer, deed, settlement, and funding facts, but cannot determine eligibility or replace legal and tax advice. A dated responsibility list helps keep a title correction or settlement revision from being mistaken for an extension of a federal deadline."
+      ],
+      [
+        "Keep Alabama Title Work and Federal Timing Distinct",
+        "Deeds, probate, heirship, trusts, corrective instruments, payor records, and county recording can move on a different schedule from exchange deadlines. The file should identify the current record owner, vesting instrument, legal description, estate type, county, owner fraction, lease references, retained rights, and unresolved authority. It should also identify which person or entity can sign, whether any estate, trust, marital, lien, entity, or fractional-interest issue remains open, and whether the property description changes between the owner record and the proposed deed. Those facts determine what can be conveyed and who can authorize the transfer. The qualified intermediary, tax counsel, title professionals, and transaction parties should receive the same dated asset description so an Alabama title cure does not quietly alter the property scope, taxpayer identity, proceeds path, or exchange paperwork."
+      ],
+      [
+        "Match the Property Scope Before Funds Move",
+        "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, product, county, owner fraction, or entity. Qualified legal and tax advisors should resolve mismatches before reliance. The closing file should compare the purchase agreement, mineral deed, tract exhibit, effective date, producing and non-producing scope, retained interests, title conditions, settlement amounts, expenses, funding instructions, intermediary record, and county recording reference. Any boot, debt replacement, related-party issue, partial sale, entity mismatch, change in replacement property, receivable treatment, or disbursement question belongs with the appropriate advisors before closing. The final archive should preserve signed documents, funding confirmation, intermediary communications, settlement records, and recording evidence so the Alabama conveyance and the exchange record can be reconstructed consistently."
+      ]
     ]
   },
   "form_fields": [
-    ["name", "text", "Name", true],
-    ["email", "email", "Email", true],
-    ["phone", "tel", "Phone", true],
-    ["message", "textarea", "Message", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ]
 }
