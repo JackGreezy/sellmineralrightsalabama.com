@@ -1,5 +1,7 @@
 {
-  "classes": {},
+  "classes": {
+    ".expertise--title.has-no-subhead": "has-subhead"
+  },
   "remove": {
     "all": [
       "footer .scroll-to-top",

@@ -240,3 +240,8 @@ html body.rr-native.rr-ref-hntb-com #n2-ss-980 .n2-ss-slider-4,html body.rr-nati
 html body.rr-native.rr-ref-hntb-com header#primary-nav .rr-dropdown-menu .rr-dropdown-link::before,html body.rr-native.rr-ref-hntb-com header#primary-nav .rr-dropdown-menu .rr-dropdown-link::after{content:none!important;display:none!important}
 html body.rr-native.rr-ref-hntb-com header#primary-nav #mega-menu-primary>li>a.mega-menu-link{white-space:nowrap!important}
 @media (max-width:767px){html body.rr-native.rr-ref-hntb-com.home #content{padding-top:0!important;margin-top:0!important}}
+
+/* Taxonomy index intro: flipping .expertise--title to the donor's own has-subhead variant (native.json classes)
+   already gives the inserted <p> its native italic steel-blue treatment and moves the gold rule off the h1
+   onto the subhead, so no extra CSS is needed here. */
+html body.rr-native.rr-ref-hntb-com[data-rr-page=internal] .entry-header p{margin:16px 0 0!important}

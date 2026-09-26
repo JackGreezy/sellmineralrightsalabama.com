@@ -17,19 +17,19 @@
   },
   "scrub": [
     [
-      "\\bI['’]m\\b",
+      "\\bI['\u2019]m\\b",
       "Sell Mineral Rights Alabama is"
     ],
     [
-      "\\bI['’]ve\\b",
+      "\\bI['\u2019]ve\\b",
       "Sell Mineral Rights Alabama has"
     ],
     [
-      "\\bI['’]ll\\b",
+      "\\bI['\u2019]ll\\b",
       "Sell Mineral Rights Alabama will"
     ],
     [
-      "\\bI['’]d\\b",
+      "\\bI['\u2019]d\\b",
       "Sell Mineral Rights Alabama would"
     ],
     [
@@ -79,7 +79,7 @@
       "Should you"
     ],
     [
-      "\\bthe Alabama acquisition desk['’]s\\b",
+      "\\bthe Alabama acquisition desk['\u2019]s\\b",
       "your"
     ],
     [
@@ -87,7 +87,7 @@
       "you"
     ],
     [
-      "\\bthe owner['’]s\\b",
+      "\\bthe owner['\u2019]s\\b",
       "your"
     ],
     [
@@ -284,5 +284,23 @@
       "Message",
       true
     ]
-  ]
+  ],
+  "taxonomy_titles": {
+    "locations": "Alabama Areas",
+    "situations": "Owner Situations",
+    "interest-types": "Mineral Interest Types",
+    "basins": "Alabama Basins",
+    "resources": "Alabama Owner Guides",
+    "investing": "Mineral Investing",
+    "exchange-1031": "1031 Exchange Guides"
+  },
+  "taxonomy_intros": {
+    "locations": "Alabama mineral ownership tracks the county courthouse, not a state map. Start with the county or city that holds the deed, lease, and division order for the tract.",
+    "situations": "The Alabama record differs by how the interest arrived, inherited, divided among family, tied to an unsolicited offer, or sitting on leased-but-undrilled acreage, and each path points to a different first document to pull.",
+    "interest-types": "Mineral rights, royalty interests, overriding royalties, non-participating royalties, and working interests carry different powers and different exposure under an Alabama lease. The acquisition file names the interest before it prices it.",
+    "basins": "Alabama production runs through the Black Warrior Basin coalbed methane fairway and the south Alabama oil trend, and each carries its own decline pattern, operator history, and paid-decimal reality.",
+    "resources": "Deeds, probate records, division orders, and a proposed conveyance answer different parts of an Alabama mineral sale. These guides walk through what each document needs to say.",
+    "investing": "Buyers who value an Alabama mineral position for its own cash flow ask different questions than an owner comparing a single lump-sum offer, and the difference shows up in how the interest gets modeled.",
+    "exchange-1031": "Rolling Alabama mineral or royalty proceeds into a like-kind replacement runs on the same 45-day identification and 180-day closing clock as any other 1031 exchange, with rules specific to mineral and royalty interests."
+  }
 }

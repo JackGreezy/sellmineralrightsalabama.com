@@ -201,7 +201,7 @@
       "Industry Perspectives",
       "Al Readiness and Strategic Planning",
       "Kennedy Expressway",
-      "O’Hare International Airport",
+      "O\u2019Hare International Airport",
       "Brent Spence Bridge",
       "Harbor Bridge Replacement"
     ],
@@ -1373,7 +1373,107 @@
         "image": "img",
         "_link_card": true
       },
-      "repair_css": "body[data-rr-page=internal]{font-family:'Interstate',Arial,sans-serif!important;color:#3c454b!important}body[data-rr-page=internal] .entry-header{box-sizing:border-box!important;width:min(1380px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,8vw,8rem) 0 3rem!important}body[data-rr-page=internal] .entry-header h1{margin:0!important;color:#1b242a!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(32px,3.2vw,44px)!important;font-weight:400!important;line-height:1.15!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=internal] #project-list.main-listing{box-sizing:border-box!important;display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:10px!important;width:min(1170px,calc(100% - 40px))!important;margin:0 auto!important;padding:0 0 clamp(5rem,9vw,9rem)!important}body[data-rr-page=internal] #project-list .project-item{display:block!important;position:relative!important;float:none!important;width:auto!important;min-width:0!important;margin:0!important;aspect-ratio:1.22/1!important;overflow:hidden!important}body[data-rr-page=internal] #project-list .project-item>a{display:block!important;width:100%!important;height:100%!important}body[data-rr-page=internal] #project-list .project-item img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;transition:transform .35s ease!important}body[data-rr-page=internal] #project-list .project-item:hover img{transform:scale(1.035)!important}body[data-rr-page=internal] #project-list .project-item-overlay{display:flex!important;align-items:flex-end!important;position:absolute!important;inset:0!important;padding:0!important;background:none!important}body[data-rr-page=internal] #project-list .project-item{box-shadow:0 2px 6px rgba(0,0,0,.18)!important}body[data-rr-page=internal] #project-list .project-item-overlay p{box-sizing:border-box!important;width:100%!important;margin:0!important;padding:14px 10px!important;background:rgba(0,0,0,.45)!important;color:#fff!important;font-family:'Interstate',Arial,sans-serif!important;font-size:15px!important;font-weight:400!important;line-height:1.35!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}@media(max-width:900px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:1fr!important}}"
+      "repair_css": "body[data-rr-page=internal]{font-family:'Interstate',Arial,sans-serif!important;color:#3c454b!important}body[data-rr-page=internal] .entry-header{box-sizing:border-box!important;width:min(1380px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,8vw,8rem) 0 3rem!important}body[data-rr-page=internal] .entry-header h1{margin:0!important;color:#1b242a!important;font-family:'Interstate',Arial,sans-serif!important;font-size:clamp(32px,3.2vw,44px)!important;font-weight:400!important;line-height:1.15!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page=internal] #project-list.main-listing{box-sizing:border-box!important;display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:10px!important;width:min(1170px,calc(100% - 40px))!important;margin:0 auto!important;padding:0 0 clamp(5rem,9vw,9rem)!important}body[data-rr-page=internal] #project-list .project-item{display:block!important;position:relative!important;float:none!important;width:auto!important;min-width:0!important;margin:0!important;aspect-ratio:1.22/1!important;overflow:hidden!important}body[data-rr-page=internal] #project-list .project-item>a{display:block!important;width:100%!important;height:100%!important}body[data-rr-page=internal] #project-list .project-item img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;transition:transform .35s ease!important}body[data-rr-page=internal] #project-list .project-item:hover img{transform:scale(1.035)!important}body[data-rr-page=internal] #project-list .project-item-overlay{display:flex!important;align-items:flex-end!important;position:absolute!important;inset:0!important;padding:0!important;background:none!important}body[data-rr-page=internal] #project-list .project-item{box-shadow:0 2px 6px rgba(0,0,0,.18)!important}body[data-rr-page=internal] #project-list .project-item-overlay p{box-sizing:border-box!important;width:100%!important;margin:0!important;padding:14px 10px!important;background:rgba(0,0,0,.45)!important;color:#fff!important;font-family:'Interstate',Arial,sans-serif!important;font-size:15px!important;font-weight:400!important;line-height:1.35!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}@media(max-width:900px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){body[data-rr-page=internal] #project-list.main-listing{grid-template-columns:1fr!important}}",
+      "taxonomy_overrides": {
+        "locations": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Alabama mineral ownership tracks the county courthouse, not a state map. Start with the county or city that holds the deed, lease, and division order for the tract.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "situations": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>The Alabama record differs by how the interest arrived, inherited, divided among family, tied to an unsolicited offer, or sitting on leased-but-undrilled acreage, and each path points to a different first document to pull.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "interest-types": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Mineral rights, royalty interests, overriding royalties, non-participating royalties, and working interests carry different powers and different exposure under an Alabama lease. The acquisition file names the interest before it prices it.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "basins": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Alabama production runs through the Black Warrior Basin coalbed methane fairway and the south Alabama oil trend, and each carries its own decline pattern, operator history, and paid-decimal reality.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "resources": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Deeds, probate records, division orders, and a proposed conveyance answer different parts of an Alabama mineral sale. These guides walk through what each document needs to say.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "investing": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Buyers who value an Alabama mineral position for its own cash flow ask different questions than an owner comparing a single lump-sum offer, and the difference shows up in how the interest gets modeled.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        "exchange-1031": {
+          "sections": [
+            {
+              "selector": ".entry-header",
+              "action": "relabel",
+              "ops": [
+                {
+                  "sel": "h1",
+                  "after_html": "<p>Rolling Alabama mineral or royalty proceeds into a like-kind replacement runs on the same 45-day identification and 180-day closing clock as any other 1031 exchange, with rules specific to mineral and royalty interests.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      }
     },
     "slug": {
       "signature": [
