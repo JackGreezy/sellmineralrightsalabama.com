@@ -53,780 +53,974 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/tuscaloosa-county": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/jefferson-county": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/escambia-county": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/conecuh-county": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/citronelle-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/northport-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/adamsville-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/argo-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/atmore-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/axis-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/bay-minette-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/bayou-la-batre-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/beatrice-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/belle-fontaine-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/brighton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/brookside-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/brookwood-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/bucks-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/cardiff-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/chunchula-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/coaling-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/concord-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/cordova-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/county-line-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/creola-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/dauphin-island-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/dora-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/east-brewton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/edgewater-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/elberta-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/eldridge-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/evergreen-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/excel-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/fairfield-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/frisco-city-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/fultondale-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/gardendale-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/grand-bay-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/grayson-valley-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/graysville-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/gulfcrest-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/holt-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/homewood-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/hoover-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/hueytown-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/irondale-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/kansas-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/kimberly-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/lake-view-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/leeds-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/lipscomb-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/maytown-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mccalla-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mcdonald-chapel-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mckenzie-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/megargel-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/minor-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/morris-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/moundville-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mount-olive-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mount-vernon-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mountain-brook-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/movico-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/mulga-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/nauvoo-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/north-johns-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/oakman-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/orange-beach-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/parrish-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/perdido-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/perdido-beach-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/peterman-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/pleasant-grove-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/point-clear-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/pollard-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/repton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/riverview-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/robertsdale-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/rock-creek-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/saraland-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/satsuma-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/semmes-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/silverhill-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/sipsey-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/stapleton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/stockton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/sumiton-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/summerdale-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/sylvan-springs-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/theodore-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/trafford-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/uriah-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/vance-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/vestavia-hills-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/vredenburgh-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/warrior-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/woodstock-al": {
-      "src": "/ours/locations/regional-bessemer-al.jpg",
-      "alt": "Regional view: Bessemer, Alabama",
-      "credit": "Bessemer, Alabama. Regional Alabama photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG\" rel=\"noopener\">Rudi Weikard / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-foley-al.jpg",
+      "alt": "View of Foley, Alabama",
       "regional": true,
       "region": "Alabama",
-      "source": "https://commons.wikimedia.org/wiki/File%3AJefferson_County_Courthouse_in_Bessemer%2C_Alabama.JPG"
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Foley,_Alabama.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Alabama view: Foley, Alabama."
     },
     "/locations/birmingham-al": {
       "src": "/ours/locations/sell-mineral-rights-birmingham-al.jpg",
